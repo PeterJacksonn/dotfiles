@@ -1,3 +1,3 @@
-### dotfiles :)
-## nvim
-## i3 and i3status
+## dotfiles :)
+### nvim
+### i3 and i3status
