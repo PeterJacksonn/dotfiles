@@ -1,1 +1,1 @@
-## Updated dotfiiles
+## Updated dotfiles
