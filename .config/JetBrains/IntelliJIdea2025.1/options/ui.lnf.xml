@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="REMEMBER_SIZE_FOR_EACH_TOOL_WINDOW_NEW_UI" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_BREAKPOINTS_OVER_LINE_NUMBERS" value="false" />
+    <option name="UI_DENSITY" value="COMPACT" />
+  </component>
+</application>

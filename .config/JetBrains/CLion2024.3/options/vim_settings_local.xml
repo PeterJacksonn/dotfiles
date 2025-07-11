@@ -1,0 +1,279 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">c291cmNlIC5pZGVhdmltcmM=</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">bWFya3M=</entry>
+        <entry encoding="base64">NDAwMA==</entry>
+        <entry encoding="base64">MzI0NQ==</entry>
+        <entry encoding="base64">NDAzNg==</entry>
+        <entry encoding="base64">NTAwMA==</entry>
+        <entry encoding="base64">MzU2Nw==</entry>
+        <entry encoding="base64">MTM1OQ==</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-search>
+        <entry encoding="base64">aW5jbHVk</entry>
+        <entry encoding="base64">YWRkcmVz</entry>
+        <entry encoding="base64">MzQ=</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">aV9udW0=</entry>
+        <entry encoding="base64">MTQ=</entry>
+        <entry encoding="base64">YWN0bG9n</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry encoding="base64">bG9jYWw=</entry>
+        <entry encoding="base64">c2VuZF8=</entry>
+        <entry encoding="base64">YWN0</entry>
+      </history-search>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="nexus-90bd8d42">
+      <jump line="59" column="32" filename="$USER_HOME$/develop/nexus/scope/wtab/send_actlog_z30.cpp" protocol="file" />
+      <jump line="228" column="12" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/develop/nexus/misc_notes.md" protocol="file" />
+      <jump line="6" column="59" filename="$USER_HOME$/develop/nexus/misc_notes.md" protocol="file" />
+      <jump line="7" column="71" filename="$USER_HOME$/develop/nexus/misc_notes.md" protocol="file" />
+      <jump line="13" column="58" filename="$USER_HOME$/develop/nexus/scope/target/tgt_data/actlog.dat" protocol="file" />
+      <jump line="239" column="21" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="218" column="15" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="207" column="12" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/develop/nexus/scope/wtab/build_table_table_d105.cpp" protocol="file" />
+      <jump line="3" column="26" filename="$USER_HOME$/develop/nexus/scope/wtab/build_table_table_d105.cpp" protocol="file" />
+      <jump line="40" column="10" filename="$USER_HOME$/develop/nexus/scope/wsql/do_table_number_c6.cpp" protocol="file" />
+      <jump line="39" column="3" filename="$USER_HOME$/develop/nexus/scope/wsql/do_table_number_c6.cpp" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/develop/nexus/scope/wsql/do_table_number_c6.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/develop/nexus/CMakeLists.txt" protocol="file" />
+      <jump line="7" column="6" filename="$USER_HOME$/develop/nexus/CMakeLists.txt" protocol="file" />
+      <jump line="39" column="7" filename="$USER_HOME$/develop/nexus/scope/wtab/send_actlog_z30.cpp" protocol="file" />
+      <jump line="47" column="35" filename="$USER_HOME$/develop/nexus/scope/wtab/send_actlog_z30.cpp" protocol="file" />
+      <jump line="63" column="5" filename="$USER_HOME$/develop/nexus/scope/wtab/send_actlog_z30.cpp" protocol="file" />
+      <jump line="40" column="13" filename="$USER_HOME$/develop/nexus/scope/wtab/send_actlog_z30.cpp" protocol="file" />
+      <jump line="81" column="47" filename="$USER_HOME$/develop/nexus/scope/syslog/process_text_c3.cpp" protocol="file" />
+      <jump line="222" column="81" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="8" column="26" filename="$USER_HOME$/develop/nexus/scope/wtab/build_table_table_d105.cpp" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/develop/nexus/CMakeLists.txt" protocol="file" />
+      <jump line="217" column="15" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="201" column="18" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/develop/nexus/scope/wtab/build_table_table_d105.cpp" protocol="file" />
+      <jump line="12" column="58" filename="$USER_HOME$/develop/nexus/scope/wtab/build_table_table_d105.cpp" protocol="file" />
+      <jump line="109" column="0" filename="$USER_HOME$/develop/nexus/scope/wtab/send_actlog_z30.cpp" protocol="file" />
+      <jump line="252" column="17" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="216" column="12" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="233" column="72" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="213" column="71" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="224" column="14" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="214" column="54" filename="$USER_HOME$/develop/nexus/scope/wtab/db_set_l1.cpp" protocol="file" />
+      <jump line="130" column="18" filename="/usr/include/isc/histo.h" protocol="file" />
+      <jump line="1646" column="17" filename="/usr/include/c++/14.2.1/format" protocol="file" />
+      <jump line="1837" column="19" filename="/usr/include/unicode/numberformatter.h" protocol="file" />
+      <jump line="578" column="8" filename="$USER_HOME$/develop/nexus/scope/wsql/def_alias_f102.cpp" protocol="file" />
+      <jump line="564" column="50" filename="$USER_HOME$/develop/nexus/scope/wsql/def_alias_f102.cpp" protocol="file" />
+      <jump line="74" column="20" filename="$USER_HOME$/develop/nexus/scope/wsql/find_intconst_f106.cpp" protocol="file" />
+      <jump line="577" column="6" filename="$USER_HOME$/develop/nexus/scope/wsql/def_alias_f102.cpp" protocol="file" />
+      <jump line="581" column="56" filename="$USER_HOME$/develop/nexus/scope/wsql/def_alias_f102.cpp" protocol="file" />
+      <jump line="575" column="40" filename="$USER_HOME$/develop/nexus/scope/wsql/def_alias_f102.cpp" protocol="file" />
+      <jump line="144" column="27" filename="$USER_HOME$/develop/nexus/scope/syslog/process_text_c3.cpp" protocol="file" />
+      <jump line="329" column="0" filename="$USER_HOME$/develop/nexus/scope/syslog/process_activity_b13.cpp" protocol="file" />
+      <jump line="323" column="0" filename="$USER_HOME$/develop/nexus/scope/syslog/process_activity_b13.cpp" protocol="file" />
+      <jump line="65" column="39" filename="$USER_HOME$/develop/nexus/scope/archive/archive_gbl_inc.h" protocol="file" />
+      <jump line="51" column="76" filename="$USER_HOME$/develop/nexus/scope/archive/archive_gbl_inc.h" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/develop/nexus/TODO.md" protocol="file" />
+      <jump line="4" column="18" filename="$USER_HOME$/develop/nexus/misc_notes.md" protocol="file" />
+      <jump line="314" column="18" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_boolean_libd005.cpp" protocol="file" />
+      <jump line="3999" column="3" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_boolean_libd005.cpp" protocol="file" />
+      <jump line="4765" column="15" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_boolean_libd005.cpp" protocol="file" />
+      <jump line="3244" column="15" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_char_string_libd025.cpp" protocol="file" />
+      <jump line="3259" column="21" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_char_string_libd025.cpp" protocol="file" />
+      <jump line="41" column="77" filename="$USER_HOME$/develop/nexus/scope/archive/archive_gbl_inc.h" protocol="file" />
+      <jump line="4033" column="15" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_boolean_libd005.cpp" protocol="file" />
+      <jump line="3257" column="30" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_char_string_libd025.cpp" protocol="file" />
+      <jump line="4034" column="15" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_boolean_libd005.cpp" protocol="file" />
+      <jump line="5001" column="15" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_real_libd065.cpp" protocol="file" />
+      <jump line="5005" column="33" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_real_libd065.cpp" protocol="file" />
+      <jump line="5018" column="62" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_real_libd065.cpp" protocol="file" />
+      <jump line="5017" column="64" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_real_libd065.cpp" protocol="file" />
+      <jump line="5013" column="75" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_real_libd065.cpp" protocol="file" />
+      <jump line="5053" column="38" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_real_libd065.cpp" protocol="file" />
+      <jump line="3566" column="3" filename="$USER_HOME$/develop/nexus/scope/library/libr/RedisAPICPP.cpp" protocol="file" />
+      <jump line="3298" column="30" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_char_string_libd025.cpp" protocol="file" />
+      <jump line="18" column="31" filename="$USER_HOME$/develop/nexus/scope/library/libr/wtab_redis_field_mapping_con.h" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" protocol="file" />
+      <jump line="3323" column="30" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_char_string_libd025.cpp" protocol="file" />
+      <jump line="1359" column="9" filename="$USER_HOME$/develop/nexus/scope/protocols/commsub/implementations/dnp3/Dnp3Outstation.cpp" protocol="file" />
+      <jump line="1351" column="23" filename="$USER_HOME$/develop/nexus/scope/protocols/commsub/implementations/dnp3/Dnp3Outstation.cpp" protocol="file" />
+      <jump line="4077" column="15" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_boolean_libd005.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_boolean_libd005.cpp" protocol="file" />
+      <jump line="3255" column="50" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_char_string_libd025.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_char_string_libd025.cpp" protocol="file" />
+      <jump line="14" column="6" filename="$USER_HOME$/develop/nexus/scope/protocols/commsub/implementations/dnp3/Dnp3Outstation.h" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/develop/nexus/scope/protocols/commsub/implementations/dnp3/Dnp3Outstation.h" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/develop/nexus/scope/protocols/commsub/implementations/dnp3/Dnp3Outstation.h" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/develop/nexus/scope/library/libr/wtab_redis_field_mapping_con.h" protocol="file" />
+      <jump line="12" column="17" filename="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" protocol="file" />
+      <jump line="38" column="7" filename="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" protocol="file" />
+      <jump line="26" column="19" filename="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/develop/nexus/scope/library/libr/RedisAPICPPFields.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/develop/nexus/scope/library/libr/redisAPI.cpp" protocol="file" />
+      <jump line="79" column="18" filename="$USER_HOME$/develop/nexus/scope/library/libr/redisAPI.cpp" protocol="file" />
+      <jump line="933" column="15" filename="$USER_HOME$/develop/nexus/scope/library/libr/redisAPI.cpp" protocol="file" />
+      <jump line="2194" column="10" filename="$USER_HOME$/develop/nexus/scope/include/types/typenv_typ.h" protocol="file" />
+      <jump line="31" column="19" filename="$USER_HOME$/develop/nexus/scope/include/types/typenv_typ.h" protocol="file" />
+      <jump line="27" column="19" filename="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" protocol="file" />
+      <jump line="41" column="48" filename="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" protocol="file" />
+      <jump line="28" column="12" filename="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" protocol="file" />
+      <jump line="37" column="13" filename="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/develop/nexus/scope/library/libr/wtab_redis_field_mapping_con.h" protocol="file" />
+      <jump line="4" column="16" filename="$USER_HOME$/develop/nexus/scope/library/libr/wtab_redis_field_mapping_con.h" protocol="file" />
+      <jump line="3324" column="21" filename="$USER_HOME$/develop/nexus/scope/library/libd/write_char_string_libd025.cpp" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/develop/nexus/scope/protocols/commsub/implementations/dnp3/Dnp3Outstation.cpp" timestamp="1744105008466">
+        <mark key="&quot;" line="1351" column="23" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/othsnd/othsnd_a1.cpp" timestamp="1743412863700">
+        <mark key="&quot;" line="43" column="18" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/library/libr/redisAPI.cpp" timestamp="1744105008438">
+        <mark key="&quot;" line="1108" column="15" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/library/libd/write_boolean_libd005.cpp" timestamp="1744105008385">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/protocols/commsub/implementations/dnp3/Dnp3Outstation.h" timestamp="1744105008457">
+        <mark key="&quot;" line="13" column="0" />
+        <mark key="'" line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/library/libd/write_char_string_libd025.cpp" timestamp="1744105008393">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/include/libm.h" timestamp="1743762165122">
+        <mark key="&quot;" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/library/libd/read_config_data_for_boolean_libd006.cpp" timestamp="1743761379846">
+        <mark key="&quot;" line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/include/types/typenv_typ.h" timestamp="1744105008445">
+        <mark key="&quot;" line="31" column="19" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/TODO.md" timestamp="1744105008474">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/library/libr/wtab_redis_field_mapping_con.h" timestamp="1744105008410">
+        <mark key="&quot;" line="20" column="31" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/target/README.ascii_to_sql" timestamp="1743412870567">
+        <mark key="&quot;" line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/misc_notes.md" timestamp="1744105008483">
+        <mark key="&quot;" line="4" column="18" />
+        <mark key="'" line="4" column="21" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/library/json.hpp" timestamp="1743412869626">
+        <mark key="&quot;" line="24057" column="36" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/library/ADT/LPString.hpp" timestamp="1744105008421">
+        <mark key="&quot;" line="38" column="13" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/wsql/def_alias_f102.cpp" timestamp="1743761357560">
+        <mark key="&quot;" line="1889" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/library/libr/RedisAPICPP.cpp" timestamp="1743762145687">
+        <mark key="&quot;" line="4100" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/syslog/process_activity_b13.cpp" timestamp="1744105008352">
+        <mark key="&quot;" line="323" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/library/libr/RedisAPICPPFields.cpp" timestamp="1744105008430">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/nexus/scope/archive/archive_gbl_inc.h" timestamp="1744105008376">
+        <mark key="&quot;" line="41" column="77" />
+        <mark key="'" line="65" column="39" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
+      </register>
+      <register name="+" type="LINE_WISE">
+        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">ZGJfY29uZmlnLmRiX25hbWU=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">I2luY2x1ZGUgPDw+c3RyaW5n</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">YWN0</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Li4uL3Njb3BlL3RhcmdldC90Z3RfZGF0YS9hY3Rsb2cuZGF0Ci4uLi9zY29wZS93dGFiL3NlbmRfYWN0bG9nX3ozMC5jcHAK</text>
+      </register>
+      <register name="q" type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">CgpSZXZlcnQgIlNPRi0yNzMzOCAtIFJldmVydCBzZW5kX2FjdGxvZ196MzAgdG8gdXNlIG9sZF92YWwgaW5zdGVhZCBvZiBkYl9jb25maWcuZGJfbmFtZSB0d2ljZSIKClRoaXMgcmV2ZXJ0cyBjb21taXQgYzYyNDZhZGYxODY3M2VlMWRlY2UwZTZhZjI2NGUwODdlOTdmODgwMi4K</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgaWYgKHN0cmNtcCh0YWJsZU5hbWUsIHRhYmxlX25hbWVzX2NvbmZpZ1tpXSkgPT0gMCkKICAgICAgICAgewogICAgICAgICByZXR1cm4gaTsKICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">I2luY2x1ZGUgInd0YWJfdGFibGVfY29uLmgiCg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUocmVsX2N3X2FkZF9jb21tc3ViX21vZGVtX2hlYWx0aCByZWxfY3dfYWRkX2NvbW1zdWJfbW9kZW1faGVhbHRoLmNwcCkKdGFyZ2V0X2xpbmtfbGlicmFyaWVzKHJlbF9jd19hZGRfY29tbXN1Yl9tb2RlbV9oZWFsdGggeHRlbCkK</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">U09GLTI3MjE1IC0gQWRkZWQgYW4gYWxhcm1MZXZlbCBhY3RpdmVBbGFybUZpZWxkIGZvciBkYlBvaW50IEFQSSByZXF1ZXN0cwo=</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gaGVyZQo=</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgLy9oZXJlCg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgLy8gaGVyZWhlcmVoZXJoaGVyaGVyZQo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">YWN0</last-search>
+      <last-offset encoding="base64" />
+      <last-pattern encoding="base64">YWN0</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

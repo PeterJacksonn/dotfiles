@@ -1,0 +1,17 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/.cache/JetBrains/CLion2024.1/demo/LearnCppProject" value="true" />
+        <entry key="$USER_HOME$/develop/nexus" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/develop" />
+      </list>
+    </option>
+  </component>
+</application>

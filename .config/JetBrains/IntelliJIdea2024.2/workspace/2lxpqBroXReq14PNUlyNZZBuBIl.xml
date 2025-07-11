@@ -1,0 +1,203 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="nsstw54559" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nsstw54559" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nsstw54559" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nsstw54559" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/core}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="nsstw54559" />
+            <item name="nsstw54559" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="nsstw54559" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/java" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/java/.idea" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/.idea}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/java/build" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/build}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/java/core" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="core" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/core}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java/core/AlarmServer" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="AlarmServer" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/core/AlarmServer}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java/core/APIServer" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="APIServer" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/core/APIServer}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java/core/ArchiverExchange" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="ArchiverExchange" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/core/ArchiverExchange}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java/core/ArhExportServer" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="ArhExportServer" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/core/ArhExportServer}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java/core/Artisan" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Artisan" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/core/Artisan}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java/core/BackupManager" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="BackupManager" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/core/BackupManager}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java/core/Genie" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="Genie" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/core/Genie}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java/core/Liferay" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Liferay" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/branches/release/nsstw54559/java/core/Liferay}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/java/build_all.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="build_all.xml" />
+                  <item name="build_all.xml" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="88000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3294025" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.3294025" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+</project>

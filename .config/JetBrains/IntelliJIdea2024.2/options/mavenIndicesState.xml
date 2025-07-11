@@ -1,0 +1,68 @@
+<application>
+  <component name="MavenIndices">
+    <option name="MAVEN_INDICES_DATA">
+      <map>
+        <entry key="$MAVEN_REPOSITORY$">
+          <value>
+            <MavenIndexData>
+              <option name="dataDir" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2024.2/Maven/Indices/repository-142ff7f1" />
+              <option name="id" value="repository-142ff7f1" />
+              <option name="repoId" value="local" />
+              <option name="url" value="$MAVEN_REPOSITORY$" />
+            </MavenIndexData>
+          </value>
+        </entry>
+        <entry key="https://repo.eclipse.org/content/repositories/paho-releases/">
+          <value>
+            <MavenIndexData>
+              <option name="dataDir" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2024.2/Maven/Indices/paho-releases-e71ef300" />
+              <option name="id" value="paho-releases-e71ef300" />
+              <option name="repoId" value="Eclipse Paho Repo" />
+              <option name="url" value="https://repo.eclipse.org/content/repositories/paho-releases/" />
+            </MavenIndexData>
+          </value>
+        </entry>
+        <entry key="https://repo.maven.apache.org/maven2">
+          <value>
+            <MavenIndexData>
+              <option name="dataDir" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2024.2/Maven/Indices/maven2-71a23c62" />
+              <option name="id" value="maven2-71a23c62" />
+              <option name="repoId" value="central" />
+              <option name="url" value="https://repo.maven.apache.org/maven2" />
+            </MavenIndexData>
+          </value>
+        </entry>
+        <entry key="https://sonatype-nexus.lab.servelec-systems.com/repository/maven-public">
+          <value>
+            <MavenIndexData>
+              <option name="dataDir" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2024.2/Maven/Indices/maven-public-6df227ab" />
+              <option name="id" value="maven-public-6df227ab" />
+              <option name="repoId" value="servelec-maven-public-mirror" />
+              <option name="url" value="https://sonatype-nexus.lab.servelec-systems.com/repository/maven-public" />
+            </MavenIndexData>
+          </value>
+        </entry>
+        <entry key="https://sonatype-nexus.lab.servelec-systems.com/repository/maven-releases">
+          <value>
+            <MavenIndexData>
+              <option name="dataDir" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2024.2/Maven/Indices/maven-releases-4c10060e" />
+              <option name="id" value="maven-releases-4c10060e" />
+              <option name="repoId" value="servelec-maven" />
+              <option name="url" value="https://sonatype-nexus.lab.servelec-systems.com/repository/maven-releases" />
+            </MavenIndexData>
+          </value>
+        </entry>
+        <entry key="https://sonatype-nexus.lab.servelec-systems.com/repository/maven-snapshots">
+          <value>
+            <MavenIndexData>
+              <option name="dataDir" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2024.2/Maven/Indices/maven-snapshots-3ef94ead" />
+              <option name="id" value="maven-snapshots-3ef94ead" />
+              <option name="repoId" value="servelec-maven-snapshot" />
+              <option name="url" value="https://sonatype-nexus.lab.servelec-systems.com/repository/maven-snapshots" />
+            </MavenIndexData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

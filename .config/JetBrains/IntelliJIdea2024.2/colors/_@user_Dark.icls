@@ -1,0 +1,36 @@
+<scheme name="_@user_Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2024.2.4.0.0</property>
+    <property name="originalScheme">Dark</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.intellij</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <colors>
+    <option name="LINE_NUMBERS_COLOR" value="be8306" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="6bea05" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="50a9f1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="50cbf8" />
+      </value>
+    </option>
+    <option name="DOC_CODE_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="5f85ec" />
+        <option name="BACKGROUND" value="26292c" />
+        <option name="EFFECT_COLOR" value="393b40" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

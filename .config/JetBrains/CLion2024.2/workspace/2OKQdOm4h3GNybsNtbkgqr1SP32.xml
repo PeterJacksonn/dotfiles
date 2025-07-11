@@ -1,0 +1,220 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="LearnCppProject" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3tfym5uvy6v5w" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="264">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="25" />
+              <folding>
+                <marker date="1721723069113" expanded="false" signature="0:37" ph="##include ..." />
+                <marker date="1721723069113" expanded="true" signature="93:221" ph="{...}" />
+                <marker date="1721723069113" expanded="true" signature="233:304" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C++": {
+      "usageCount": 3,
+      "lastUsed": 1721722908422
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C++">
+      <summary usageCount="3" lastUsage="1721722908422" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearnCppProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/.cache/JetBrains/CLion2024.1/demo/LearnCppProject}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.welcome" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="862000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Pull Requests" />
+      <window_info id="DFA" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32985613" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" id="Learn" order="3" visible="true" weight="0.32985613" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Python Packages" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Vcpkg" />
+      <window_info anchor="bottom" id="clangd" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="CMake" order="5" />
+      <window_info anchor="bottom" id="Debug" order="5" show_stripe_button="false" weight="0.32971013" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32971013" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.32971013" />
+      <window_info anchor="right" id="make" side_tool="true" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="right" id="Python Console" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32985613" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+      <unified_weights bottom="0.32971013" left="0.32985613" right="0.32985613" />
+    </layoutV2>
+    <recentWindows>
+      <value>Learn</value>
+      <value>Debug</value>
+      <value>Messages</value>
+      <value>Run</value>
+      <value>Project</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1308" height="276" key="GridCell.Tab.0.bottom" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.0.center" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.0.left" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.0.right" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.1.bottom" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.1.center" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.1.left" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.1.right" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.2.bottom" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.2.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.2.center" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.2.center/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.2.left" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.2.left/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.2.right" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.2.right/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.3.bottom" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.3.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.3.center" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.3.center/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.3.left" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.3.left/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state width="1308" height="276" key="GridCell.Tab.3.right" timestamp="1721723073355">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1308" height="276" key="GridCell.Tab.3.right/0.27.1920.1053@0.27.1920.1053" timestamp="1721723073355" />
+    <state x="1238" y="261" width="680" height="696" key="search.everywhere.popup" timestamp="1721723068946">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1238" y="261" width="680" height="696" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1721723068946" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <marker date="1721723069113" expanded="false" signature="0:37" ph="##include ..." />
+            <marker date="1721723069113" expanded="true" signature="93:221" ph="{...}" />
+            <marker date="1721723069113" expanded="true" signature="233:304" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

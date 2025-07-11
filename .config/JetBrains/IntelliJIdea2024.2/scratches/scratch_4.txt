@@ -1,0 +1,27 @@
+        function getHierarchyNodes() {
+            // TODO somehow get the correct server---- need to communicate with the other controller
+            var replyData = {};
+
+            ScopeData.getAll({
+                handler: 'HierarchyNode',
+                filter: ScopeData.where('server', ScopeData.OPERATOR.EQ, 'localscope'),
+                options: {
+                    persistent: true
+                }
+            }).success(function (hierarchyNodes) {
+                replyData = _.sortBy(_.map(hierarchyNodes, function (hierarchyNode) {
+                    return {
+                        key: hierarchyNode.getId(),
+                        value: hierarchyNode.getName()
+                    };
+                }), function (hierarchyNode) {
+                    return hierarchyNode.value;
+                });
+
+                $scope.$apply();
+            });
+
+
+        }
+
+        getHierarchyNodes();

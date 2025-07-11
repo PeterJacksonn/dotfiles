@@ -1,0 +1,7 @@
+com.daniel-espinoza.inline-error
+com.fernandojimenez.obsidian.theme
+com.intellij.zh
+com.joshestein.ideavim-quickscope
+com.kagof.pokeprogress
+izhangzhihao.rainbow.brackets
+monokai-pro

@@ -1,0 +1,5 @@
+-Xmx8000m
+-Dide.managed.by.toolbox=/home/pjackson/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=09d3b613-4514-431b-b713-e7d24226faea
+-Dtoolbox.notification.portFile=/home/pjackson/.cache/JetBrains/Toolbox/ports/b434c3c1-7dc5-45b3-9e26-28344b99a201.port
+-Dsun.awt.disablegrab=true

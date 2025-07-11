@@ -1,0 +1,7 @@
+com.intellij.c.performanceTesting
+com.intellij.cidr.grazie
+com.intellij.cidr.lang
+com.intellij.cidr.lang.clangdBridge
+com.intellij.cidr.markdown
+izhangzhihao.rainbow.brackets
+org.jetbrains.plugins.cidr-intelliLang

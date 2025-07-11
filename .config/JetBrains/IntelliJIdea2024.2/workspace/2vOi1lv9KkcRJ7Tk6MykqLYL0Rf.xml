@@ -1,0 +1,220 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="standard" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="216ji0zioejt6" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="4620">
+              <caret line="210" column="13" selection-start-line="210" selection-start-column="13" selection-end-line="210" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"docker-compose.yml","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,81,10,27,105,99,111,110,115,47,68,111,99,107,101,114,67,111,109,112,111,115,101,70,105,108,101,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,100,111,99,107,101,114,67,111,109,112,111,115,101,46,115,118,103,26,6,68,111,99,107,101,114,40,-17,-58,-28,-94,-1,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/build/config/Dockerfile">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Dockerfile","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,64,10,22,105,99,111,110,115,47,68,111,99,107,101,114,70,105,108,101,95,49,46,115,118,103,18,22,105,99,111,110,115,47,101,120,112,117,105,47,100,111,99,107,101,114,46,115,118,103,26,6,68,111,99,107,101,114,40,-32,-127,-23,-100,4,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":".env","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "textmate": {
+      "usageCount": 3,
+      "lastUsed": 1744121069038
+    },
+    "YAML": {
+      "usageCount": 3,
+      "lastUsed": 1744121069030
+    },
+    "Dockerfile": {
+      "usageCount": 2,
+      "lastUsed": 1744121069027
+    },
+    "DIFF": {
+      "usageCount": 3,
+      "lastUsed": 1744105906936
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>api</find>
+      <find>apiserver</find>
+      <find>explorer</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+        <item name="REMOTE/[origin]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/docker-compose.yml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="2" lastUsage="1744121069027" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="3" lastUsage="1744121069038" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="3" lastUsage="1744121069030" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11692000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15788099" />
+      <window_info id="Commit" order="1" weight="0.2502604" />
+      <window_info active="true" id="VcsChanges" order="2" visible="true" weight="0.33011484" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.44953704" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3300926" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.44953704" left="0.33011484" />
+    </layoutV2>
+    <recentWindows>
+      <value>VcsChanges</value>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Commit</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="43" width="1540" height="882" key="DiffContextDialog" timestamp="1744105865969">
+      <screen x="0" y="13" width="1920" height="1080" />
+    </state>
+    <state x="372" y="43" width="1540" height="882" key="DiffContextDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@0.13.1920.1080" timestamp="1744105865969" />
+    <state x="0" y="13" width="1920" height="1080" key="MergeDialog" timestamp="1744024112488">
+      <screen x="0" y="13" width="1920" height="1080" />
+    </state>
+    <state x="0" y="13" width="1920" height="1080" key="MergeDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@0.13.1920.1080" timestamp="1744024112488" />
+    <state x="763" y="256" width="384" height="535" key="RollbackChangesDialog" timestamp="1744024186920">
+      <screen x="0" y="13" width="1920" height="1080" />
+    </state>
+    <state x="763" y="256" width="384" height="535" key="RollbackChangesDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@0.13.1920.1080" timestamp="1744024186920" />
+    <state x="691" y="234" width="528" height="576" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1744033871826">
+      <screen x="0" y="13" width="1920" height="1080" />
+    </state>
+    <state x="691" y="234" width="528" height="576" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@0.13.1920.1080" timestamp="1744033871826" />
+    <state x="1176" y="231" width="513" height="550" key="git4idea.branch.GitSmartOperationDialog" timestamp="1744105868402">
+      <screen x="0" y="13" width="1920" height="1080" />
+    </state>
+    <state x="1176" y="231" width="513" height="550" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@0.13.1920.1080" timestamp="1744105868402" />
+    <state x="309" y="243" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1744024295794">
+      <screen x="0" y="13" width="1920" height="1080" />
+    </state>
+    <state x="309" y="243" key="vcs.ApplyPatchDifferentiatedDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@0.13.1920.1080" timestamp="1744024295794" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build/config/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="210" column="13" selection-start-line="210" selection-start-column="13" selection-end-line="210" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

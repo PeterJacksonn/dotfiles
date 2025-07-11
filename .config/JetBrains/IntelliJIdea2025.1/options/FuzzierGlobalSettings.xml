@@ -1,0 +1,9 @@
+<application>
+  <component name="com.mituuz.fuzzier.FuzzierGlobalSettings">
+    <option name="defaultPopupHeight" value="600" />
+    <option name="defaultPopupWidth" value="850" />
+    <option name="fileListFontSize" value="16" />
+    <option name="searchPosition" value="BOTTOM" />
+    <option name="tolerance" value="5" />
+  </component>
+</application>

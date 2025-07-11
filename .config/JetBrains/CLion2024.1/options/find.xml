@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.cmake</mask>
+    <mask>*..txt</mask>
+  </component>
+</application>

@@ -1,0 +1,25 @@
+public synchronized boolean idFieldChangeValid()
+   {
+   String value = mIDField.getText();
+   if (!value.isEmpty())
+      {
+      String nameVal = StringUtils.convertName(value);
+      if (nameVal.isEmpty() || Character.isDigit(nameVal.charAt(0)))
+         {
+         JOptionPane.showMessageDialog(mIDField, "Invalid Element ID", "Error", JOptionPane.ERROR_MESSAGE);
+         return false;
+         }
+
+      if (mListener != null)
+         {
+         if (!mListener.okToRenameElement(mElement, value))
+            {
+            JOptionPane.showMessageDialog(mIDField, "ID \"" + value + "\" is already being used,\nyou must use something unique", "Duplicate ID Error", JOptionPane.ERROR_MESSAGE);
+            mIDField.setText(mElement.getAttribute("id")); // Reset text
+            return false;
+            }
+         }
+      mChangeListener.changedID(value);
+      }
+   return true;
+   }

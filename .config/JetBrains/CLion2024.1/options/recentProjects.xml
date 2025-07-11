@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/.cache/JetBrains/CLion2024.1/demo/LearnCppProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="LearnCppProject – main.cpp" hidden="true" projectWorkspaceId="2OKQdOm4h3GNybsNtbkgqr1SP32">
+              <option name="activationTimestamp" value="1721723073342" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-241.18034.45" />
+              <option name="buildTimestamp" value="1718745180000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="137" y="53" width="1400" height="1000" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1721721881838" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/develop/nexus">
+          <value>
+            <RecentProjectMetaInfo frameTitle="nexus – wtab_redis_field_mapping_con.h" opened="true" projectWorkspaceId="2jdrySNBtLe1CBinPY9CQMxYH6j">
+              <option name="activationTimestamp" value="1749550849828" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-241.18034.45" />
+              <option name="buildTimestamp" value="1718745180000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1920" y="0" width="1920" height="1062" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1721728048245" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/develop/nexus" />
+  </component>
+</application>

@@ -1,0 +1,203 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="FirstWeekLeaningJava" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2dxpmqjp3nj98" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="462">
+              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Board.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" column="90" selection-start-line="4" selection-start-column="90" selection-end-line="4" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Player.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 8,
+      "lastUsed": 1721904779736
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Board.java" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$PROJECT_DIR$/src/Player.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="8" lastUsage="1721904779736" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FirstWeekLeaningJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/first_week_exp/FirstWeekLeaningJava}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstWeekLeaningJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/first_week_exp/FirstWeekLeaningJava}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/first_week_exp/FirstWeekLeaningJava/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="FirstWeekLeaningJava-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9161000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1328288" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.28221154" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.28221154" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.28221154" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.28221154" />
+      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.33028847" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.3294271" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.28221154" left="0.1328288" right="0.3294271" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>TODO</value>
+      <value>Terminal</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="286" width="428" height="478" key="FileChooserDialogImpl" timestamp="1721904817465">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="286" width="428" height="478" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1721904817465" />
+    <state width="1243" height="251" key="GridCell.Tab.0.bottom" timestamp="1721833023888">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1243" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1721833023888" />
+    <state width="1243" height="251" key="GridCell.Tab.0.center" timestamp="1721833023888">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1243" height="251" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1721833023888" />
+    <state width="1243" height="251" key="GridCell.Tab.0.left" timestamp="1721833023888">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1243" height="251" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1721833023888" />
+    <state width="1243" height="251" key="GridCell.Tab.0.right" timestamp="1721833023888">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1243" height="251" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1721833023888" />
+    <state x="464" y="167" key="SettingsEditor" timestamp="1721822885216">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="464" y="167" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1721822885216" />
+    <state x="309" y="236" width="528" height="578" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1721832012127">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="309" y="236" width="528" height="578" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1721832012127" />
+    <state x="560" y="177" width="800" height="706" key="new project wizard" timestamp="1721904829976">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="177" width="800" height="706" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1721904829976" />
+    <state x="623" y="215" width="680" height="696" key="search.everywhere.popup" timestamp="1721822833572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="215" width="680" height="696" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1721822833572" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="90" selection-start-line="4" selection-start-column="90" selection-end-line="4" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

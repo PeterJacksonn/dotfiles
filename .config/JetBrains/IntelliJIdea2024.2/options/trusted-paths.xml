@@ -1,0 +1,32 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/develop/affinity-water" value="true" />
+        <entry key="$USER_HOME$/develop/branches/release/o56143/java" value="true" />
+        <entry key="$USER_HOME$/develop/first_week_exp/FirstWeekLeaningJava" value="true" />
+        <entry key="$USER_HOME$/develop/first_week_exp/day2_java" value="true" />
+        <entry key="$USER_HOME$/develop/java-core" value="true" />
+        <entry key="$USER_HOME$/develop/jcore-new/java-core" value="true" />
+        <entry key="$USER_HOME$/develop/nexus" value="true" />
+        <entry key="$USER_HOME$/develop/nginx-config" value="true" />
+        <entry key="$USER_HOME$/develop/prism-go" value="true" />
+        <entry key="$USER_HOME$/develop/scope-data" value="true" />
+        <entry key="$USER_HOME$/develop/scope-data-ts" value="true" />
+        <entry key="$USER_HOME$/develop/scope-schema-ts" value="true" />
+        <entry key="$USER_HOME$/develop/scope-util" value="true" />
+        <entry key="$USER_HOME$/develop/standard" value="true" />
+        <entry key="$USER_HOME$/develop/svn-stuff" value="true" />
+        <entry key="$USER_HOME$/develop/welsh" value="true" />
+        <entry key="$USER_HOME$/develop/wessex" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/develop" />
+      </list>
+    </option>
+  </component>
+</application>

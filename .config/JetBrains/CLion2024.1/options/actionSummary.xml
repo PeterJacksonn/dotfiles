@@ -1,0 +1,106 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CPP.CreateCMakeProject">
+      <i c="1" l="1721822584610" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1721723073347" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1721722936864" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="16" l="1749550847743" />
+    </e>
+    <e n="EditorEnter">
+      <i c="3" l="1725979347499" />
+    </e>
+    <e n="EditorEscape">
+      <i c="2" l="1740476446268" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1723466374290" />
+    </e>
+    <e n="EditorSearchSession.ToggleMatchCase">
+      <i c="3" d="3" l="1721723066881" k="1721723066881" />
+    </e>
+    <e n="EditorToggleCase">
+      <i c="1" d="1" l="1721723068952" k="1721723068952" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1721723009427" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="3" l="1725977419925" />
+    </e>
+    <e n="GitUpdateSelectedBranchAction">
+      <i c="4" l="1749039941477" />
+    </e>
+    <e n="GotoLine">
+      <i c="1" l="1723466383441" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1725979363680" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1721722929282" />
+    </e>
+    <e n="SaveAll">
+      <i c="3" l="1725979356593" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="4" l="1723466373517" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1721809826974" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="4" l="1721723036100" />
+    </e>
+    <e n="Stop">
+      <i c="4" l="1721807532013" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1721722933695" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1721727987586" />
+    </e>
+    <e n="XDebugger.AttachToProcess">
+      <i c="4" l="1721894049243" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1749039948926" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1721909284087" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="5" l="1723465623173" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="9" l="1749550849739" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="6" l="1721822571853" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="8" l="1722503743484" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.NotificationEventAction">
+      <i c="1" l="1721656507656" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1721822577864" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1723465627326" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="2" l="1721723068383" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="1" l="1721723066130" />
+    </e>
+  </component>
+</application>

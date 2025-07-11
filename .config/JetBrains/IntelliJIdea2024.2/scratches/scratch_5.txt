@@ -1,0 +1,60 @@
+    // not needed now:
+function createHierarchyPickerForm(selected, filters, hierarchyNodes, submitForm, cancelForm) {
+    return {
+        title: 'Hierarchy Picker',
+        name: 'hierarchyPicker',
+        submit: {
+            text: 'OK',
+            action: submitForm
+        },
+        cancel: {
+            text: 'CLOSE',
+            action: cancelForm
+        },
+        fields: [
+            {
+                name: 'works',
+                label: 'WORKS',
+                type: 'fieldSelect',
+                options: hierarchyNodes.works,
+                required: false,
+                model: filters,
+                modelProperty: 'worksId',
+                // loading: () => hierarchyNodes.loading
+            },
+            {
+                name: 'process',
+                label: 'PROCESS',
+                type: 'fieldSelect',
+                options: hierarchyNodes.processes,
+                required: false,
+                disabled: () => filters.worksId == null,
+                model: filters,
+                modelProperty: 'processId',
+                // loading: () => hierarchyNodes.loading
+            },
+            {
+                name: 'function',
+                label: 'FUNCTION',
+                type: 'fieldSelect',
+                options: hierarchyNodes.functions,
+                required: false,
+                disabled: () => filters.worksId == null || filters.processId == null,
+                model: filters,
+                modelProperty: 'functionId',
+                loading: () => hierarchyNodes.loading
+            },
+            {
+                name: 'asset',
+                label: 'ASSET',
+                type: 'fieldSelect',
+                options: hierarchyNodes.assets,
+                required: false,
+                disabled: () => filters.worksId == null || filters.processId == null || filters.functionId == null,
+                model: filters,
+                modelProperty: 'assetId',
+                loading: () => hierarchyNodes.loading
+            },
+        ]
+    };
+}

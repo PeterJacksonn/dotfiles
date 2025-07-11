@@ -1,0 +1,106 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/develop/first_week_exp/FirstWeekLeaningJava">
+          <value>
+            <RecentProjectMetaInfo frameTitle="FirstWeekLeaningJava – Player.java" projectWorkspaceId="2jgxmxVY1HQKD9B7h7zDrKtuGqL">
+              <option name="activationTimestamp" value="1721904834569" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1060" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1721822684953" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/develop/first_week_exp/day2_java">
+          <value>
+            <RecentProjectMetaInfo frameTitle="day2_java – Main.java" projectWorkspaceId="2jjeI2VZHsdYN3Fe4jB2kPepcj9">
+              <option name="activationTimestamp" value="1721912900992" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1060" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1721904834971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/develop/prism-go">
+          <value>
+            <RecentProjectMetaInfo frameTitle="prism-go – README.md" projectWorkspaceId="2jumJtYQMp4vH6YvzaWa8tlf6CF">
+              <option name="activationTimestamp" value="1722345119169" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="0" y="0" width="896" height="1060" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1722245268023" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/develop/nexus">
+          <value>
+            <RecentProjectMetaInfo frameTitle="nexus" projectWorkspaceId="2jdrySNBtLe1CBinPY9CQMxYH6j">
+              <option name="activationTimestamp" value="1722503708554" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="960" y="0" width="960" height="1060" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1722503708639" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/develop/java-core">
+          <value>
+            <RecentProjectMetaInfo frameTitle="java-core – RedisReadRequest.java [ScopeAPI]" opened="true" projectWorkspaceId="2jjueSVbgqRzlFnPOHhVERJa7kD">
+              <option name="activationTimestamp" value="1750941184432" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-251.25410.129" />
+              <option name="buildTimestamp" value="1746778800000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="1920" y="0" width="1920" height="1062" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1750664246546" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/develop/standard">
+          <value>
+            <RecentProjectMetaInfo frameTitle="standard – docker-compose.yml" projectWorkspaceId="2vOi1lv9KkcRJ7Tk6MykqLYL0Rf">
+              <option name="activationTimestamp" value="1750927825578" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-251.25410.129" />
+              <option name="buildTimestamp" value="1746778800000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="2880" y="0" width="960" height="1062" extendedState="4" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1750927825155" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/develop/java-core" />
+    <option name="lastProjectLocation" value="$USER_HOME$/develop/first_week_exp" />
+  </component>
+</application>

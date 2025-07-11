@@ -1,0 +1,6 @@
+<application>
+  <component name="DockerSettings">
+    <option name="dockerComposePath" value="/sbin/docker" />
+    <option name="dockerPath" value="/sbin/docker" />
+  </component>
+</application>

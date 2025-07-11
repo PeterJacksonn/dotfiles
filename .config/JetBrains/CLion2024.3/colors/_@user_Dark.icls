@@ -1,0 +1,36 @@
+<scheme name="_@user_Dark" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2024.2.3.0.0</property>
+    <property name="originalScheme">Dark</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.intellij</property>
+  </metaInfo>
+  <colors>
+    <option name="LINE_NUMBERS_COLOR" value="748ab9" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="edeff4" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ffe1" />
+        <option name="BACKGROUND" value="5151" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="eef35e" />
+        <option name="BACKGROUND" value="584e25" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8bb33d" />
+        <option name="BACKGROUND" value="354f24" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="73ad2b" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

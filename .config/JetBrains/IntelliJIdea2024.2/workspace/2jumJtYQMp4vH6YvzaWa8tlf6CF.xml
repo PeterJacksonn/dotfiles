@@ -1,0 +1,172 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="prism-go" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1xz11wjzp5992" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 12,
+      "lastUsed": 1734519490506
+    },
+    "yarn.lock": {
+      "usageCount": 5,
+      "lastUsed": 1734519397321
+    },
+    "JSON": {
+      "usageCount": 4,
+      "lastUsed": 1734519397212
+    },
+    "DIFF": {
+      "usageCount": 1,
+      "lastUsed": 1733839932657
+    }
+  }
+}]]></component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+        <item name="RECENT/[bugfix]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+        <item name="REMOTE/[origin]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/package.json" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JSON">
+      <summary usageCount="4" lastUsage="1734519397212" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="12" lastUsage="1734519490506" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18197000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25993723" />
+      <window_info id="Commit" order="1" weight="0.25052303" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32998085" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32998085" left="0.25052303" />
+    </layoutV2>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1850" height="311" key="GridCell.Tab.0.bottom" timestamp="1733840196395">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1850" height="311" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1733840196395" />
+    <state width="1850" height="311" key="GridCell.Tab.0.center" timestamp="1733840196395">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1850" height="311" key="GridCell.Tab.0.center/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1733840196395" />
+    <state width="1850" height="311" key="GridCell.Tab.0.left" timestamp="1733840196395">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1850" height="311" key="GridCell.Tab.0.left/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1733840196395" />
+    <state width="1850" height="311" key="GridCell.Tab.0.right" timestamp="1733840196395">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1850" height="311" key="GridCell.Tab.0.right/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1733840196395" />
+    <state x="2290" y="52" width="1540" height="882" key="MergeDialog" timestamp="1733829692196">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2290" y="52" width="1540" height="882" key="MergeDialog/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1733829692196" />
+    <state x="3147" y="432" width="415" height="154" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1733839919661">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3147" y="432" width="415" height="154" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1733839919661" />
+    <state x="3096" y="218" width="513" height="550" key="git4idea.branch.GitSmartOperationDialog" timestamp="1733829685357">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3096" y="218" width="513" height="550" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1733829685357" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

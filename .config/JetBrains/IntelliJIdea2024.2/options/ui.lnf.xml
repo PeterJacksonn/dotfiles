@@ -1,0 +1,13 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="25" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="REMEMBER_SIZE_FOR_EACH_TOOL_WINDOW_NEW_UI" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_PREVIEW_IN_SEARCH_EVERYWHERE" value="true" />
+    <option name="UI_DENSITY" value="COMPACT" />
+  </component>
+</application>

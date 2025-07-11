@@ -1,0 +1,907 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="default" value="true" />
+        <option name="name" value="IdeaVim" />
+      </GroupState>
+      <GroupState>
+        <option name="name" value="nexus" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+        <item name="GROUP:bugfix" type="80986c07:BranchNodeDescriptor$Group" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="HEAD" type="11d8e747:BranchNodeDescriptor$Head" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2dwv3uyxg8qgw" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/scope/syslog/process_activity_b13.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="6930">
+              <caret line="323" selection-start-line="323" selection-end-line="323" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"process_activity_b13.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/scope/archive/archive_gbl_inc.h">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="880">
+              <caret line="41" column="77" selection-start-line="41" selection-start-column="77" selection-end-line="41" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"archive_gbl_inc.h","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,89,10,21,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,18,27,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-48,-45,-18,-83,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/scope/library/libd/write_boolean_libd005.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="90178">
+              <caret line="4102" column="15" selection-start-line="4102" selection-start-column="15" selection-end-line="4102" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"write_boolean_libd005.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scope/library/libd/write_char_string_libd025.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="417">
+              <caret line="3334" column="30" selection-start-line="3334" selection-start-column="30" selection-end-line="3334" selection-end-column="30" />
+              <folding>
+                <marker date="1746691017014" expanded="false" signature="0:1491" ph="##include ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"write_char_string_libd025.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/TODO.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TODO.md","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/misc_notes.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+              <first_editor relative-caret-position="88">
+                <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"misc_notes.md","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 91,
+      "lastUsed": 1746691004584
+    },
+    "C++ Header": {
+      "usageCount": 55,
+      "lastUsed": 1733309278198
+    },
+    "C++": {
+      "usageCount": 79,
+      "lastUsed": 1733318819048
+    },
+    "WebPreview": {
+      "usageCount": 4,
+      "lastUsed": 1735892136361
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 23,
+      "lastUsed": 1734345440531
+    },
+    "DIFF": {
+      "usageCount": 36,
+      "lastUsed": 1743761406805
+    },
+    "Shell Script": {
+      "usageCount": 1,
+      "lastUsed": 1733217773167
+    },
+    "C/C++": {
+      "usageCount": 338,
+      "lastUsed": 1746691002557
+    },
+    "C/C++ Header": {
+      "usageCount": 251,
+      "lastUsed": 1746691002118
+    },
+    "CMakeLists.txt": {
+      "usageCount": 8,
+      "lastUsed": 1733728558197
+    },
+    "VcsLog": {
+      "usageCount": 1,
+      "lastUsed": 1734532075019
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>redict</find>
+      <find>address</find>
+      <find>dbdatatype</find>
+      <find>setdbpoint</find>
+      <find>alarm</find>
+      <find>alarmstatus</find>
+      <find>bDbDataTypeFields</find>
+      <find>alarmlevel</find>
+      <find>level</find>
+      <find>alarm_status</find>
+      <find>dbpoint</find>
+      <find>status</find>
+      <find>levelField</find>
+      <find>AlarmStatus</find>
+      <find>dbdatafields</find>
+      <find>DbDataTypeFieldList</find>
+      <find>3</find>
+      <find>alarm_level</find>
+      <find>set ([^\s]+)</find>
+      <find>true to</find>
+      <find />
+      <find>history</find>
+      <find>activity</find>
+      <find>activity history</find>
+      <find>text</find>
+      <find>actlog&gt;</find>
+      <find>Set</find>
+      <find>ACTLOG&gt;</find>
+      <find>ACTLOG&gt;  Set</find>
+      <find>mastered</find>
+      <find>set</find>
+      <find>actlog.dat</find>
+      <find>send_actlog</find>
+      <find>{ 24 }ACTLOG&gt;  Enable GROUP ^i alarms ^n at WRKSTN ^w by ^u
+{ 25 }ACTLOG&gt;  Disable GROUP ^i alarms ^n at WRKSTN ^w by ^u</find>
+      <find>log_number</find>
+      <find>14</find>
+      <find>read_lock</find>
+      <find>sub_source</find>
+      <find>actlog</find>
+      <find>boolean</find>
+      <find>process_text</find>
+      <find>db_name</find>
+      <find>figures</find>
+      <find>pr</find>
+      <find>precision</find>
+      <find>if (alarm_level_1_is</find>
+      <find>check if ala</find>
+      <find>if (alarm_level_1_is_high_priority)
+                       {
+                       if ((new_level == 0) || (check_level &lt; new_level))
+                          {
+                          db_al = ind;
+                          new_level = check_level;
+                          isRepeatAlarm = FALSE;
+                          }
+                       }
+                    else if (check_level &gt; new_level)
+                       {
+                       db_al = ind;
+                       new_level = check_level;
+                       isRepeatAlarm = FALSE;
+                       }</find>
+      <find>hiredis</find>
+      <find>must exist</find>
+      <find>writecount</find>
+      <find>enumargc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/scope/include</dir>
+      <dir>$PROJECT_DIR$/scope/library/libr</dir>
+      <dir>$PROJECT_DIR$/scope/protocols/commsub/commsub_base</dir>
+      <dir>$PROJECT_DIR$/scope/comsup</dir>
+      <dir>$PROJECT_DIR$/scope/convert</dir>
+      <dir>$PROJECT_DIR$/scope</dir>
+      <dir>$PROJECT_DIR$/scope/com</dir>
+      <dir>$PROJECT_DIR$/scope/wlib</dir>
+      <dir>$PROJECT_DIR$/scope/target/tgt_data</dir>
+      <dir>$PROJECT_DIR$/scope/wtab</dir>
+      <dir>$PROJECT_DIR$/scope/wsql</dir>
+      <dir>$PROJECT_DIR$/scope/syslog</dir>
+      <dir>$PROJECT_DIR$/scope/library/ADT</dir>
+      <dir>$PROJECT_DIR$/scope/library/libd</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+        <item name="RECENT/[release]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+        <item name="RECENT/[hotfix]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="522ab5b6:GitBranchType$REMOTE" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="522ab5b6:GitBranchType$REMOTE" />
+        <item name="REMOTE/[origin]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="TAG" type="e8bb5155:GitTagType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/pjackson/develop/nexus/TODO.md&quot;,
+    &quot;/home/pjackson/develop/nexus/scope/library/libd/generic_lock_libd.cpp&quot;,
+    &quot;/home/pjackson/develop/nexus/misc_notes.md&quot;,
+    &quot;/home/pjackson/develop/nexus/scope/library/libm/MessageFuncs.h&quot;,
+    &quot;/home/pjackson/develop/nexus/scope/convert/CMakeLists.txt&quot;,
+    &quot;/home/pjackson/develop/nexus/scope/wtab/build_table_table_d105.cpp&quot;,
+    &quot;/home/pjackson/develop/nexus/scope/wtab/db_set_l1.cpp&quot;,
+    &quot;/home/pjackson/develop/nexus/scope/library/ADT/LPString.hpp&quot;,
+    &quot;/home/pjackson/develop/nexus/scope/library/libr/wtab_redis_field_mapping_con.h&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C++">
+      <summary usageCount="723" lastUsage="1746691002557" />
+    </language>
+    <language id="CMake">
+      <summary usageCount="8" lastUsage="1733728558197" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="91" lastUsage="1746691004584" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="1" lastUsage="1733217773167" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="23" lastUsage="1734345440531" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="174313000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16988519" />
+      <window_info id="Commit" order="1" weight="0.17285565" />
+      <window_info id="VcsChanges" order="2" weight="0.32975942" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.40594542" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32998085" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.24281609" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="CMake" order="5" weight="0.44590643" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.24281609" />
+      <window_info anchor="bottom" x="1815" y="674" width="1882" height="281" id="Debug" order="7" weight="0.29807693" />
+      <window_info anchor="bottom" id="AIAssistant" order="8" show_stripe_button="false" weight="0.25047892" />
+      <window_info anchor="bottom" id="Database" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Notifications" order="10" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="0" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="2" />
+      <unified_weights bottom="0.40594542" left="0.17285565" />
+    </layoutV2>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Version Control</value>
+      <value>CMake</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>VcsChanges</value>
+      <value>Problems View</value>
+      <value>Notifications</value>
+      <value>AIAssistant</value>
+      <value>TODO</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2" y="-3" width="1916" height="1062" key="DiffContextDialog" timestamp="1741614895595">
+      <screen x="0" y="13" width="1920" height="1080" />
+    </state>
+    <state x="-2" y="-3" width="1916" height="1062" key="DiffContextDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.1080.1920.1080" timestamp="1741614895595" />
+    <state x="2486" y="1352" key="MultipleFileMergeDialog" timestamp="1737383221718">
+      <screen x="1920" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="2486" y="1352" key="MultipleFileMergeDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.1080.1920.1080" timestamp="1737383221718" />
+    <state x="2679" y="1289" width="384" height="535" key="RollbackChangesDialog" timestamp="1741612832872">
+      <screen x="1920" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="2679" y="1289" key="RollbackChangesDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.1080.1920.1080" timestamp="1741612832872" />
+    <state x="2878" y="18" width="960" height="1062" key="SettingsEditor" timestamp="1737382504858">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="960" y="0" width="960" height="1062" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1735892108985" />
+    <state x="2878" y="18" key="SettingsEditor/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.1080.1920.1080" timestamp="1737382504858" />
+    <state width="498" height="559" key="SwitcherDM" timestamp="1741614875988">
+      <screen x="1920" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="498" height="559" key="SwitcherDM/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.1080.1920.1080" timestamp="1741614875988" />
+    <state x="858" y="319" width="804" height="520" key="Vcs.Push.Dialog.v2" timestamp="1743760253195">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="858" y="319" key="Vcs.Push.Dialog.v2/0.0.2560.1440/235.1440.1920.1080@0.0.2560.1440" timestamp="1743760253195" />
+    <state x="2565" y="1331" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.1080.1920.1080" timestamp="1741614899055" />
+    <state x="2384" y="1153" width="915" height="912" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1737383042486">
+      <screen x="1920" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="2384" y="1153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.1080.1920.1080" timestamp="1737383042486" />
+    <state x="2248" y="114" width="1219" height="954" key="find.popup" timestamp="1743412870580">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2248" y="114" width="1219" height="954" key="find.popup/0.13.1920.1080/1920.1080.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1743412870580" />
+    <state x="2248" y="1194" width="1219" height="954" key="find.popup/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.1080.1920.1080" timestamp="1741616017879" />
+    <state x="2616" y="1266" width="506" height="550" key="git4idea.branch.GitSmartOperationDialog" timestamp="1744105004628">
+      <screen x="1920" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="927" y="237" width="506" height="550" key="git4idea.branch.GitSmartOperationDialog/0.0.2560.1440/235.1440.1920.1080@0.0.2560.1440" timestamp="1743761656600" />
+    <state x="2616" y="1266" width="506" height="550" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.1080.1920.1080" timestamp="1744105004628" />
+    <state x="213" y="224" width="1434" height="951" key="search.everywhere.popup" timestamp="1743762362797">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="213" y="224" width="1434" height="951" key="search.everywhere.popup/0.0.2560.1440/235.1440.1920.1080@0.0.2560.1440" timestamp="1743762362797" />
+    <state x="2543" y="1304" width="1075" height="713" key="search.everywhere.popup/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.1080.1920.1080" timestamp="1741616008946" />
+    <state x="1917" y="1349" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1737384021281">
+      <screen x="1920" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="1917" y="1349" key="vcs.ApplyPatchDifferentiatedDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.1080.1920.1080" timestamp="1737384021281" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>message.actlog_message.activity_log == 14</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>message.actlog_message.actlog_code == 14</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>message.</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log_number == 14</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>log_number = 14</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>syslog_message</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>local_b_data.value</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>&amp;reply</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>reply</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>*reply</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ACTION_printout</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>manual_source</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>old_val</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a_val</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a_str</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>text2</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>text1</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ok_to_send_message</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>db_config.db_name</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>user</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>work.w_db.b_db_data.value</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>syslog_message.actlog_message</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>msg</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>operation</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i_state</expression-string>
+        <language-id>C++</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scope/library/libd/read_boolean_libd004.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libs/lock_boolean_libs021.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="733">
+          <caret line="94" column="5" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libm/syslog_rx_libm020.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/wtab/send_actlog_z30.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2354">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/wsql/do_table_number_c6.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/include/libm.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/syslog/activity_archive_text_write_d13.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libm/MessageFuncs.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="150" column="40" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/vms/eflags.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12826">
+          <caret line="589" selection-start-line="589" selection-end-line="589" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/lib1/should_start_lib1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/malloc.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libm/RedisIPC.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5280">
+          <caret line="240" column="9" selection-start-line="240" selection-start-column="9" selection-end-line="240" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/hiredis/hiredis.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="136" column="5" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/lib0/translate_task_to_process_name_lib0534.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5940">
+          <caret line="270" column="5" selection-start-line="270" selection-start-column="5" selection-end-line="270" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5170">
+          <caret line="235" column="11" selection-start-line="235" selection-start-column="11" selection-end-line="235" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/scope.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5588">
+          <caret line="254" column="5" selection-start-line="254" selection-start-column="5" selection-end-line="254" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libd/read_config_data_for_boolean_libd006.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/wlib/wlib_typ.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8360">
+          <caret line="380" column="16" selection-start-line="380" selection-start-column="16" selection-end-line="380" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/wtab/wtab_typ.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8162">
+          <caret line="371" column="5" selection-start-line="371" selection-start-column="5" selection-end-line="371" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/lib0/mark_time_and_wait_lib0029.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libd/generic_lock_libd.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4312">
+          <caret line="198" column="42" selection-start-line="198" selection-start-column="42" selection-end-line="198" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/wtab/build_table_table_d105.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libipc/semaphore.cpp" />
+    <entry file="file://$PROJECT_DIR$/scope/include/scope.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4070">
+          <caret line="185" column="25" selection-start-line="185" selection-start-column="25" selection-end-line="185" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/unistd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10538">
+          <caret line="479" column="11" selection-start-line="479" selection-start-column="11" selection-end-line="479" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/include/vms_signal_macros.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/wtab/db_set_l1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="214" column="54" selection-start-line="214" selection-start-column="54" selection-end-line="214" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/target/tgt_data/actlog.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/isc/histo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="130" column="18" selection-start-line="130" selection-start-column="18" selection-end-line="130" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/14.2.1/format">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="1646" column="17" selection-start-line="1646" selection-start-column="17" selection-end-line="1646" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/unicode/numberformatter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="1837" column="19" selection-start-line="1837" selection-start-column="19" selection-end-line="1837" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/wsql/find_intconst_f106.cpp" />
+    <entry file="file://$PROJECT_DIR$/scope/wsql/def_alias_f102.cpp" />
+    <entry file="file://$PROJECT_DIR$/scope/syslog/process_text_c3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="144" column="27" selection-start-line="144" selection-start-column="27" selection-end-line="144" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-1669659433&quot;,&quot;projectHash&quot;:&quot;90bd8d42&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;bugfix/SOF-27435&quot;,&quot;inclusiveRef&quot;:&quot;develop&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;/home/pjackson/develop/nexus&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libr/RedisAPICPP.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="3613" column="93" selection-start-line="3613" selection-start-column="93" selection-end-line="3613" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libd/write_real_libd065.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111122">
+          <caret line="5053" column="38" selection-start-line="5053" selection-start-column="38" selection-end-line="5053" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libr/RedisAPICPPFields.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/ADT/LPString.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/protocols/commsub/implementations/dnp3/Dnp3Outstation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/protocols/commsub/implementations/dnp3/Dnp3Outstation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29634">
+          <caret line="1351" column="23" selection-start-line="1351" selection-start-column="23" selection-end-line="1351" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/include/types/typenv_typ.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libr/wtab_redis_field_mapping_con.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libr/redisAPI.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24354">
+          <caret line="1108" column="15" selection-start-line="1108" selection-start-column="15" selection-end-line="1108" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/syslog/process_activity_b13.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6930">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/archive/archive_gbl_inc.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="41" column="77" selection-start-line="41" selection-start-column="77" selection-end-line="41" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libd/write_boolean_libd005.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90178">
+          <caret line="4102" column="15" selection-start-line="4102" selection-start-column="15" selection-end-line="4102" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scope/library/libd/write_char_string_libd025.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="3334" column="30" selection-start-line="3334" selection-start-column="30" selection-end-line="3334" selection-end-column="30" />
+          <folding>
+            <marker date="1746691017014" expanded="false" signature="0:1491" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TODO.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/misc_notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

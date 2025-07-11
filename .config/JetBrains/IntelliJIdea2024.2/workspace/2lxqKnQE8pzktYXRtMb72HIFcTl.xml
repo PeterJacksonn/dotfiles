@@ -1,0 +1,831 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Nutella Spread STW (54559)" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1xb551mhqg1ce" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/config/nsstw54559/Prism.properties">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Prism.properties","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,85,10,24,102,105,108,101,84,121,112,101,115,47,112,114,111,112,101,114,116,105,101,115,46,115,118,103,18,30,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,112,114,111,112,101,114,116,105,101,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-9,-117,-107,-50,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/config/nsstw54559/WsConfig.properties">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"WsConfig.properties","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,85,10,24,102,105,108,101,84,121,112,101,115,47,112,114,111,112,101,114,116,105,101,115,46,115,118,103,18,30,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,112,114,111,112,101,114,116,105,101,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-9,-117,-107,-50,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/APIServer/public/auth/login.html">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="264">
+              <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#6;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"login.html","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,18,102,105,108,101,84,121,112,101,115,47,104,116,109,108,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,104,116,109,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-72,-21,-93,-62,3,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/local_build.sh">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"local_build.sh","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,17,110,111,100,101,115,47,99,111,110,115,111,108,101,46,115,118,103,18,25,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,115,104,101,108,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-88,-76,-117,-54,5,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1726132798330
+    },
+    "Shell Script": {
+      "usageCount": 2,
+      "lastUsed": 1727960485940
+    },
+    "XML": {
+      "usageCount": 2,
+      "lastUsed": 1726132270614
+    },
+    "Properties": {
+      "usageCount": 6,
+      "lastUsed": 1727960088436
+    },
+    "HTML": {
+      "usageCount": 1,
+      "lastUsed": 1727960106470
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/config/nsstw54559/Prism.properties" />
+      <option value="$PROJECT_DIR$/config/nsstw54559/WsConfig.properties" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="HTML">
+      <summary usageCount="1" lastUsage="1727960106470" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1726132798330" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="6" lastUsage="1727960088436" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="2" lastUsage="1727960485940" />
+    </language>
+    <language id="XML">
+      <summary usageCount="2" lastUsage="1726132270614" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Nutella Spread STW (54559)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Nutella Spread STW (54559)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/core}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Nutella Spread STW (54559)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Nutella Spread STW (54559)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/public}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Nutella Spread STW (54559)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/public}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/public/auth}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Nutella Spread STW (54559)" />
+            <item name="Nutella Spread STW (54559)" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="svn-stuff" />
+              <item name="dir{file:///home/pjackson/develop/svn-stuff}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/build}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/config" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="config" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/config}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/core" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="core" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/core}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/AlarmServer" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="AlarmServer" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/AlarmServer}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/APIServer" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="APIServer" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/app" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="app" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/app}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/bin" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bin" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/bin}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/conf" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="conf" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/conf}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/Explorer" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Explorer" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/Explorer}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/install" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="install" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/install}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/LogicEditor" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LogicEditor" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/LogicEditor}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/project" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="project" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/project}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/public" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="public" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/public}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/public/assets" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="assets" />
+                      <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/public/assets}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/public/auth" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="auth" />
+                      <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/public/auth}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/public/auth/login.html" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="login.html" />
+                        <item name="login.html" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/test" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/testRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                    <item name="dir{file:///home/pjackson/develop/svn-stuff/core/APIServer/test}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/APNS_Keystore.jks" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="APNS_Keystore.jks" />
+                    <item name="APNS_Keystore.jks" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/build.sbt" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="build.sbt" />
+                    <item name="build.sbt" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/core/APIServer/make_jar.xml" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="make_jar.xml" />
+                    <item name="make_jar.xml" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/ArchiverExchange" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="ArchiverExchange" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/ArchiverExchange}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/ArhExportServer" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="ArhExportServer" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/ArhExportServer}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/Artisan" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="Artisan" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/Artisan}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/BackupManager" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="BackupManager" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/BackupManager}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/Genie" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="Genie" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/Genie}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/Liferay" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="Liferay" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/Liferay}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/LogicEngine" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="LogicEngine" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/LogicEngine}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/LogicServer" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="LogicServer" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/LogicServer}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/MimicServer" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="MimicServer" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/MimicServer}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/MOSTInterface" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="MOSTInterface" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/MOSTInterface}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/NexusWebServices" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="NexusWebServices" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/NexusWebServices}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/OPCUA" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="OPCUA" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/OPCUA}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/PSDS" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="PSDS" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/PSDS}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/ScadaConverter" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="ScadaConverter" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/ScadaConverter}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/SecureGateway" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="SecureGateway" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/SecureGateway}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/SerialPrinter" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="SerialPrinter" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/SerialPrinter}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/SKAdmin" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="SKAdmin" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/SKAdmin}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/SyncManager" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="SyncManager" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/SyncManager}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/TboxArchiveExtraction" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="TboxArchiveExtraction" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/TboxArchiveExtraction}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/XMLEditor" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="XMLEditor" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/XMLEditor}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/xpipe" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="xpipe" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/xpipe}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/Xreport3" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="Xreport3" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/Xreport3}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/core/xtraview3" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="xtraview3" />
+                  <item name="dir{file:///home/pjackson/develop/svn-stuff/core/xtraview3}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/coverage" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="coverage" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/coverage}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/jMeterTests" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="jMeterTests" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/jMeterTests}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lib" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lib" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/lib}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/library" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="library" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/library}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/out" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="out" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/out}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/project" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="project" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/project}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="src" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/src}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/utility" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="utility" />
+                <item name="dir{file:///home/pjackson/develop/svn-stuff/utility}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build_all.xml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="build_all.xml" />
+                <item name="build_all.xml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/local_build.sh" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="local_build.sh" />
+                <item name="local_build.sh" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/recipe.xml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="recipe.xml" />
+                <item name="recipe.xml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.prism OPS" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4227000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18515626" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3875" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.27729887" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3875" left="0.18515626" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2110" y="124" width="804" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1727960711003">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2110" y="124" width="804" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1727960711003" />
+    <state x="2359" y="174" width="631" height="639" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1726135364750">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2359" y="174" width="631" height="639" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1726135364750" />
+    <state x="2276" y="229" width="689" height="476" key="FileChooserDialogImpl" timestamp="1727960709933">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2276" y="229" width="689" height="476" key="FileChooserDialogImpl/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1727960709933" />
+    <state width="874" height="246" key="GridCell.Tab.0.bottom" timestamp="1727961213049">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="874" height="246" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1727961213049" />
+    <state width="874" height="246" key="GridCell.Tab.0.center" timestamp="1727961213048">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="874" height="246" key="GridCell.Tab.0.center/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1727961213048" />
+    <state width="874" height="246" key="GridCell.Tab.0.left" timestamp="1727961213048">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="874" height="246" key="GridCell.Tab.0.left/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1727961213048" />
+    <state width="874" height="246" key="GridCell.Tab.0.right" timestamp="1727961213048">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="874" height="246" key="GridCell.Tab.0.right/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1727961213048" />
+    <state x="2014" y="90" width="1028" height="837" key="SettingsEditor" timestamp="1726135367864">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2014" y="90" width="1028" height="837" key="SettingsEditor/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1726135367864" />
+    <state x="2605" y="173" width="528" height="576" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1726134235205">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2605" y="173" width="528" height="576" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1726134235205" />
+    <state x="2913" y="331" width="884" height="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1727960161480">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2913" y="331" width="884" height="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1727960161480" />
+    <state x="2543" y="223" width="706" height="713" key="search.everywhere.popup" timestamp="1727960484421">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="223" width="706" height="713" key="search.everywhere.popup/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1727960484421" />
+    <state x="3148" y="378" key="svn.passwordDialog" timestamp="1727960134257">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3148" y="378" key="svn.passwordDialog/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1727960134257" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build_all.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/ConfigManager/ConfigManager/WsConfigFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="83" column="64" selection-start-line="83" selection-start-column="64" selection-end-line="83" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/nsstw54559/Prism.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/nsstw54559/WsConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local_build.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/APIServer/public/auth/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#6;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ScopeAPI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

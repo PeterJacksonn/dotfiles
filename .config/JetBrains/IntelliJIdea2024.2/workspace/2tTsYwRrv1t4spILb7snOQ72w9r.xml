@@ -1,0 +1,519 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="nginx-config" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:release" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1m14qxzu4e8l2" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/conf.d/scope.conf">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"scope.conf","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/scope.conf.d/locations/prism-ops.conf">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"prism-ops.conf","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "DIFF": {
+      "usageCount": 10,
+      "lastUsed": 1744796941125
+    },
+    "textmate": {
+      "usageCount": 26,
+      "lastUsed": 1744875032680
+    },
+    "VcsLog": {
+      "usageCount": 1,
+      "lastUsed": 1744796920384
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tiles</find>
+      <find>obj</find>
+      <find>object</find>
+      <find>auth_status</find>
+      <find>objects</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/conf.d</dir>
+      <dir>$PROJECT_DIR$/src/scope.conf.d/locations</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+        <item name="RECENT/[hotfix]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+        <item name="RECENT/[feature]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+        <item name="REMOTE/[origin]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/conf.d/scope.conf" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="textmate">
+      <summary usageCount="26" lastUsage="1744875032680" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nginx-config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nginx-config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nginx-config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config/src/conf.d}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nginx-config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config/src/scope.conf.d}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nginx-config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config/src/scope.conf.d}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config/src/scope.conf.d/locations}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="nginx-config" />
+            <item name="nginx-config" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="nginx-config" />
+              <item name="dir{file:///home/pjackson/develop/nginx-config}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/pjackson/develop/nginx-config/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/docker" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="docker" />
+                <item name="dir{file:///home/pjackson/develop/nginx-config/docker}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/pjackson/develop/nginx-config/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/conf.d" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="conf.d" />
+                  <item name="dir{file:///home/pjackson/develop/nginx-config/src/conf.d}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/conf.d/scope.conf" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="scope.conf" />
+                    <item name="scope.conf" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/error" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="error" />
+                  <item name="dir{file:///home/pjackson/develop/nginx-config/src/error}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="scope.conf.d" />
+                  <item name="dir{file:///home/pjackson/develop/nginx-config/src/scope.conf.d}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/locations" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="locations" />
+                    <item name="dir{file:///home/pjackson/develop/nginx-config/src/scope.conf.d/locations}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/locations/app-launcher.conf" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="app-launcher.conf" />
+                      <item name="app-launcher.conf" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/locations/base.conf" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="base.conf" />
+                      <item name="base.conf" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/locations/error.conf" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="error.conf" />
+                      <item name="error.conf" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/locations/help.conf" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="help.conf" />
+                      <item name="help.conf" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/locations/logic-editor.conf" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="logic-editor.conf" />
+                      <item name="logic-editor.conf" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/locations/prism-5.conf" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="prism-5.conf" />
+                      <item name="prism-5.conf" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/locations/prism-go.conf" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="prism-go.conf" />
+                      <item name="prism-go.conf" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/locations/prism-ops.conf" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="prism-ops.conf" />
+                      <item name="prism-ops.conf" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/njs" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="njs" />
+                    <item name="dir{file:///home/pjackson/develop/nginx-config/src/scope.conf.d/njs}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/proxy" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="proxy" />
+                    <item name="dir{file:///home/pjackson/develop/nginx-config/src/scope.conf.d/proxy}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/servers.conf" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="servers.conf" />
+                    <item name="servers.conf" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/scope.conf.d/ssl.conf" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="ssl.conf" />
+                    <item name="ssl.conf" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitlab-ci.yml" />
+                  </map>
+                </attributes>
+                <data iconPath="org/jetbrains/plugins/gitlab/gitLabLogo.svg" iconPlugin="org.jetbrains.plugins.gitlab" isLeaf="true" text=".gitlab-ci.yml" />
+                <item name=".gitlab-ci.yml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.py" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="package.py" />
+                <item name="package.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.spec" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="package.spec" />
+                <item name="package.spec" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17488000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.102557406" />
+      <window_info id="Commit" order="1" weight="0.11456159" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3242337" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.32998085" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32998085" left="0.102557406" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Version Control</value>
+      <value>Commit</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2161" y="76" key="CommitChangelistDialog2" timestamp="1742827500905">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2161" y="76" key="CommitChangelistDialog2/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1742827500905" />
+    <state x="1916" y="-32" width="1920" height="1080" key="DiffContextDialog" timestamp="1742827589971">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1916" y="-32" width="1920" height="1080" key="DiffContextDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1742827589971" />
+    <state x="1920" y="0" width="1920" height="1080" key="MergeDialog" timestamp="1742827494385">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1920" y="0" width="1920" height="1080" key="MergeDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1742827494385" />
+    <state x="2491" y="272" width="768" height="473" key="MultipleFileMergeDialog" timestamp="1742827494392">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2491" y="272" width="768" height="473" key="MultipleFileMergeDialog/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1742827494392" />
+    <state width="498" height="444" key="SwitcherDM" timestamp="1744116454748">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="444" key="SwitcherDM/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1744116454748" />
+    <state x="2469" y="217" width="804" height="520" key="Vcs.Push.Dialog.v2" timestamp="1742827593655">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2469" y="217" width="804" height="520" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1742827593655" />
+    <state x="621" y="271" width="649" height="528" key="find.popup" timestamp="1744797034728">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1598" y="2447" width="668" height="532" key="find.popup.ideScale=110" timestamp="1744806181367">
+      <screen x="975" y="2160" width="1920" height="1080" />
+    </state>
+    <state x="1598" y="2447" width="668" height="532" key="find.popup.ideScale=110/0.0.3840.2160/975.2160.1920.1080@975.2160.1920.1080" timestamp="1744806181367" />
+    <state x="621" y="271" width="649" height="528" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1744797034728" />
+    <state x="2537" y="239" width="649" height="528" key="find.popup/1920.0.1920.1080/1920.1080.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1744116407482" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/scope.conf.d/locations/prism-5.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;985960293&quot;,&quot;projectHash&quot;:&quot;2d21ee32&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;develop&quot;,&quot;inclusiveRef&quot;:&quot;origin/release/2.3&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;/home/pjackson/develop/nginx-config&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scope.conf.d/locations/prism-ops.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conf.d/scope.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

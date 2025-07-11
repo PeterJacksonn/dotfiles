@@ -1,0 +1,157 @@
+" THIS HOLDS MOST OF THE MOTIONS/BINDS FOR IDEAVIM
+" BUT there are some that have to be done through intellij keybinds
+"
+" ###################
+" !!!! READ THIS !!!!
+" ###################
+"
+" Will document all the ones I remember:
+"
+" Ctrl+# -> open project tab/ file explorer thing
+" Windows Key -> open/close debug window
+" Shift+Windows Key -> open/close IDE terminal
+"
+" ctrl+j -> editor actions - down
+" ctrl+k -> editor actions - up
+"
+" Set the tab limit to 25
+" and tabs at the top instead of the side
+"
+" -----------------------------------------------------------------------------
+" OTHER EDITOR CONFIG:
+"
+" % sign jumps to parent / end o f a brace WHAAAT?!?!
+"
+"
+" !!!!IMPORTANT!!!!
+" NEED THE ideavim-quickscope plugin for the quickscope stuff to work!:
+" https://plugins.jetbrains.com/plugin/19417-ideavim-quickscope
+"
+" Below is a link for tool windows:
+" https://www.jetbrains.com/help/idea/manipulating-the-tool-windows.html#save-tool-window-size
+" The box titled "Save custom tool window sizes" explains but basically:
+" Settings | Appearance & Behaviour | Appearance
+" In the "Tool Window" section: "Remember size for each tool window"
+" Makes tool windows way better :)
+"
+" HarpoonIJ is the plugin name for ideavim harpoon
+"
+" View | Appearance | Compact Mode 
+"
+" Use Distraction Free mode
+" Changed so its not cenetered in the middle (just google it) set thing to 0
+" And gutter icons are shown
+"
+"
+" ALSO need to change the bind for closing files open in the switcher
+" ANDDDD for bookmarks popup (leader m)
+" (backspace)
+" For bookmarks just search keymap by the "delete" key and find the bookmark
+" one and just add another using backspace
+"
+" LIVE TEMPLATES: (are awesome)
+" For js
+" change the 'log' one so it adds the ';' at the end of the line!!!
+"
+"
+" SOME EXTRA STUFF
+" - Might need to go into the ideavim plugin settings and
+"   change ctrl + f back to use the ide setting for search
+"
+"
+" -----------------------------------------------------------------------------
+
+" map leader to space
+let mapleader = " "
+
+" best rebind i'll ever make
+" I actually do this OS wide: setxkbmap -option caps:swapescape
+imap <CapsLock> <Esc>
+
+" make "/" search way better 
+set ignorecase
+set smartcase
+set incsearch "searches as you type
+
+" misc editor
+set scrolloff=15 "keep cursor near middle
+set clipboard+=unnamedplus "use system clipboard
+
+" plugins:
+set surround "can now surround highlighted stuff
+set NERDTree "file explorer hjkl goodness
+
+" make the paragraphs actually work properly
+" (to not include whitespace only lines as part of a paragraph)
+set vim-paragraph-motion
+
+set sneak "s/S to search on 2 chars (fast way of quick search)
+
+
+" highlight for a lil bit the stuff you just yanked
+set highlightedyank
+let g:highlightedyank_highlight_duration = "200"
+let g:highlightedyank_highlight_color = "rgba(240, 160, 255, 100)"
+
+
+" move highlighted lines up and down
+vmap J <Action>(MoveLineDown)
+vmap K <Action>(MoveLineUp)
+
+" incraes/decrease font size 
+nmap <leader>- <Action>(EditorDecreaseFontSize)
+nmap <leader>+ <Action>(EditorIncreaseFontSize)
+
+" Harpoon motions
+nmap <leader>a :action AddToHarpoon<cr>:action PinActiveTab<CR>
+nmap <C-e> :action ShowHarpoon<cr>
+nmap <C-h> :action GotoHarpoon1<cr>
+nmap <C-j> :action GotoHarpoon2<cr>
+nmap <C-k> :action GotoHarpoon3<cr>
+nmap <C-l> :action GotoHarpoon4<cr>
+nmap <C-;> :action GotoHarpoon5<cr>
+
+" mappings:
+map <leader>s <Action>(SelectInProjectView)
+map <leader>S <Action>(FileStructurePopup)
+map <leader>z <Action>(ToggleDistractionFreeMode)
+map <leader>r <Action>(RecentLocations)
+map <leader>R <Action>(RenameElement)
+map <leader>e <Action>(GotoNextError)
+map <leader>E <Action>(GotoPreviousError)
+map <leader>x <Action>(SplitVertically)
+map <leader>b <Action>(ToggleLineBreakpoint)
+map <leader>B <Action>(ViewBreakpoints)
+map <leader>G <Action>(Git.Branches)
+map <leader>/ <Action>(ChooseDebugConfiguration)
+map <leader>f <Action>(Switcher)
+map <leader>\ <Action>(Git.CompareWithBranch)
+map <Leader>d <Action>(ActivateTODOToolWindow)
+map <leader>m <Action>(ShowBookmarks)
+map <leader>M <Action>(Maven.ExecuteGoal)
+nmap gd <Action>(GotoDeclaration)
+nmap gi <Action>(GotoImplementation)
+
+" window split resizing woooo!
+" also Ctrl + ww is ez way to switch window instead of C-w h/l
+nmap <C-w>= <Action>(MaximizeEditorInSplit)
+
+" up and down stay centered
+nnoremap <C-d> <C-d>zz
+nnoremap <C-u> <C-u>zz
+
+" fix selection on autofill not going up
+inoremap <C-j> <Down>
+inoremap <C-k> <Up>
+
+" undo && redo to also centre the screen
+nnoremap u uzz
+nnoremap <C-r> <C-r>zz
+
+" quickly jump to changes and centre the screen
+nnoremap g; :action JumpToLastChange<Enter>zz
+nnoremap g, :action JumpToNextChange<Enter>zz
+
+" show suggestions and accept without having to use mouse
+nmap <leader>i :action ShowErrorDescription<CR>
+nmap <leader>I :action ShowIntentionActions<CR>

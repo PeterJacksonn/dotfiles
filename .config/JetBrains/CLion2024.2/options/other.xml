@@ -1,0 +1,130 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="EditorSearchSession.ToggleMatchCase" />
+      <option value="EditorToggleCase" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="ObjectiveC" />
+    <languageToProjectMap>
+      <entry key="ObjectiveC" value="/home/pjackson/.cache/JetBrains/CLion2024.1/demo/LearnCppProject" />
+    </languageToProjectMap>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "false",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "false",
+    "AttachDialogCommandLine_Width": "288",
+    "AttachDialogDebuggers_Width": "142",
+    "AttachDialogExecutable_Width": "288",
+    "AttachDialogProcessId_Width": "83",
+    "AttachDialogProcessOwner_Width": "73",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "false",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "ColorChooser.RecentColors": "0-81-81-255,,,0-255-225-255,,,88-78-37-255,,,0-0-0-255,,,238-243-94-255,,,94-148-243-255,,,53-79-36-255,,,116-138-185-255,,,237-239-244-255,,,6-53-243-255,,,128-172-255-255,,,26-86-193-255",
+    "DISTRACTION.MODE.ENTER.VALUE": "false",
+    "FindSplitterProportion": "0.33016062",
+    "KEYMAP": "down\nup",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "MarketplacePluginsSearchHistory": "harpoon",
+    "Rad.Init.Cfg.1": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.cidr.test.roots.only": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "ShowUsagesActions.splitterServiceKey": "0.31409168",
+    "clion.initialConfigPerformed": "true",
+    "debugger.speed.search.tree.option.hint.counter": "1",
+    "enter_selection_count": "1",
+    "evlsprt3.241": "3",
+    "evlsprt3.242": "7",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "242.23726.125",
+    "fileTypeChangedCounter": "3",
+    "find.popup.splitter": "0.4949785",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.new.terminal.promotion.242": "1",
+    "gotit.previous.run": "CL-242.23726.125",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1733302819546",
+    "ift.clion.onboarding.feedback.proposed": "true",
+    "ift.learning.panel.opened.in": "241.18034.45",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/pjackson/develop/first_week_exp",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "CL-242.23726.125",
+    "selected.color.option.type": "DEFAULT_BLOCK_COMMENT",
+    "tab_selection_count": "4",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/pjackson/develop/first_week_exp",
+      "/home/pjackson/develop/nexus"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;CtrlW&quot;: 1722503753374,
+    &quot;FocusProjectToolWindow&quot;: 1733147465312,
+    &quot;SearchEverywhere&quot;: 1723188910912,
+    &quot;GoToDeclaration&quot;: 1723626966445,
+    &quot;FindInPath&quot;: 1729587734962
+  },
+  &quot;proposedTips&quot;: {
+    &quot;CtrlW&quot;: 1722503750129,
+    &quot;FocusProjectToolWindow&quot;: 1733147465170,
+    &quot;SearchEverywhere&quot;: 1723188907973,
+    &quot;GoToDeclaration&quot;: 1723626962366,
+    &quot;FindInPath&quot;: 1729587734125
+  },
+  &quot;tipsOrderSeed&quot;: 1721736141094
+}</component>
+</application>

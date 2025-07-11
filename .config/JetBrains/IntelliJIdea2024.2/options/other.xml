@@ -1,0 +1,483 @@
+<application>
+  <component name="AILicenseTypeStorage">
+    <option name="licenseId" value="D4B01CEATI" />
+    <option name="selectedType" value="PRO" />
+  </component>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="WelcomeScreen.Plugins" />
+      <option value="ShowRegistry" />
+      <option value="NewScratchFile" />
+      <option value="ActivateBuildToolWindow" />
+    </ids>
+  </component>
+  <component name="AipLicense">
+    <option name="licenseId" value="D4B01CEATI" />
+  </component>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>AccessibilityHTML</id>
+          </State>
+          <State>
+            <id>Angular</id>
+          </State>
+          <State>
+            <id>Async code and promisesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Best practisesGradle</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CommonReactive Streams</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Data flowJava</id>
+          </State>
+          <State>
+            <id>Data flowJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>ES2015 migration aidsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>EmbeddedPerformanceJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>FreeMarker</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>HTTP Client</id>
+          </State>
+          <State>
+            <id>Imports and dependenciesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>JPA</id>
+          </State>
+          <State>
+            <id>JSP</id>
+          </State>
+          <State>
+            <id>JUnit</id>
+          </State>
+          <State>
+            <id>JVM languages</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 11Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 14Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 16Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 21Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LoggingJVM languages</id>
+          </State>
+          <State>
+            <id>LombokJava</id>
+          </State>
+          <State>
+            <id>MigrationKotlin</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Nullability problemsProbable bugsJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OpenAPI specifications</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Proofreading</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Reactive Streams</id>
+          </State>
+          <State>
+            <id>ReactorReactive Streams</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>Security</id>
+          </State>
+          <State>
+            <id>SecurityJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>TypeScriptJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Unused symbolsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+          <State>
+            <id>Vue</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>User defined</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,sourcemapFileViewerProvider&quot;: &quot;text-editor&quot;,
+    &quot;text-editor,csv-data-editor&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "false",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "false",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "BuildView.Splitter.Proportion": "0.19160728",
+    "ColorChooser.RecentColors": "190-131-6-255,,,47-142-39-255,,,101-204-94-255,,,107-234-5-255,,,198-245-255-255,,,80-169-241-255,,,95-133-236-255,,,80-203-248-255,,,255-127-0-255,,,255-250-245-255,,,255-102-219-255,,,204-255-102-255,,,207-126-255-255,,,0-102-255-255,,,63-71-81-255,,,89-149-255-255",
+    "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.49425286",
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.74858755",
+    "CommittedChanges.SplitterProportions.0": "700",
+    "CommittedChanges.SplitterProportions.1": "500",
+    "DBE.Default.Dialect": "",
+    "DEBUGGER_VISUALIZED_TEXT_SELECTED_TAB#com.intellij.xdebugger.impl.ui.visualizedtext.FallbackTextVisualizer#com.intellij.xdebugger.impl.ui.visualizedtext.common.JWTTextVisualizer": "com.intellij.xdebugger.impl.ui.visualizedtext.common.JWTTextVisualizer",
+    "DEBUGGER_VISUALIZED_TEXT_SELECTED_TAB#com.intellij.xdebugger.impl.ui.visualizedtext.FallbackTextVisualizer#com.intellij.xdebugger.impl.ui.visualizedtext.common.JsonTextVisualizer": "com.intellij.xdebugger.impl.ui.visualizedtext.common.JsonTextVisualizer",
+    "DISTRACTION.MODE.ENTER.VALUE": "false",
+    "Endpoints.split": "0.65",
+    "FindSplitterProportion": "0.29491726",
+    "Grazie.Professional.Advertisement.Invoked": "1",
+    "InstalledPluginsSearchHistory": "quick\nai\nchange\nchan\ncha",
+    "KEYMAP": "Bookmarks\nswitcher\ndown\nup\nsuggestion",
+    "Kotlin-Was-Debugged": "7",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-242.23726.103",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "IU-242.23726.103",
+    "LayoutCode.optimizeImports": "false",
+    "LayoutCode.processChangedText": "false",
+    "LayoutCode.rearrangeEntriesJava": "false",
+    "Markdown Split EditorLayout": "Editor only",
+    "MarketplacePluginsSearchHistory": "/tag:Theme\nkey promot\nkey p\nsneak\nideavim-sneak",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "NewProjectWizard.gitState": "true",
+    "RunOnceActivity.Run Grazie Token Refresher": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.java.code.vision.default.position.was.set": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "SHELLCHECK.PATH": "I do mind",
+    "SettingsSearchHistory": "ai\nsoft wrap\nwrap\nline number\nline number's font delta",
+    "ShowUsagesActions.splitterServiceKey": "0.27024293",
+    "SqlStructureView.filterD.file.structure.state": "true",
+    "TextEditorWithPreview.SplitterProportionKey": "0.6594049",
+    "Vcs.Log.Text.Filter.History": "saveset\n27171\n27090\nwizard\n27662",
+    "Vcs.Push.Splitter.Tree.Proportion": "0.33375",
+    "WelcomeFeature.SHORT_WELCOME_GUIDE_SHOWN": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.database.actions.DbDeleteProvider$2.proportion": "0.5",
+    "com.intellij.database.view.ui.PerformRoutineScriptDialog.proportion": "0.0",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Dependencies",
+    "combined.diff.badge.shown": "true",
+    "debugger.smart.chooser.counter": "3",
+    "debugger.speed.search.tree.option.hint.counter": "1",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "evlsprt3.241": "5",
+    "evlsprt3.242": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "242.23726.103",
+    "file.gist.reindex.count": "14",
+    "fileTypeChangedCounter": "6",
+    "fontSizeToResetConsole": "18.0",
+    "fontSizeToResetEditor": "18.0",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.new.terminal.promotion": "1",
+    "got.it.tooltip.new.terminal.promotion.242": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.speed.search.shown": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1747295740379",
+    "ift.hide.welcome.screen.promo": "true",
+    "ift.learning.panel.opened.in": "242.21829.142",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "242.23726.103-IJ",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "js.rename.search.for.text.occurrences": "false",
+    "js.rename.search.in.comments": "false",
+    "last_opened_file_path": "/home/pjackson/Desktop",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "onboarding.generation.number": "2",
+    "org.intellij.images.editor.actions.BackgroundImageDialog#recent": "/home/pjackson/Desktop/mountainsBackground.jpg",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "registry.to.advanced.settings.migration.build": "IU-242.23726.103",
+    "rider.trace.scenarios": "",
+    "run.configuration.delete.ad": "true",
+    "selected.color.option.type": "LINE_NUMBERS_COLOR",
+    "settings.code.style.selected.tab.JAVA": "Wrapping and Braces",
+    "show.vcs.annotation.aspect.Author": "true",
+    "show.vcs.annotation.aspect.Date": "true",
+    "tab_selection_count": "5",
+    "toolwindow.showToolWindowsNames.ts": "2025-04-15T09:14:16.817254675",
+    "ts.lib.d.ts.version": "5.4.3",
+    "vcs.branch.view.splitter.proportion": "0.19320713",
+    "vcs.history.diff.splitter.proportion": "0.40435708",
+    "vcs.log.changes.splitter.proportion": "0.8203753"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/pjackson/develop/java-core/config/scope-deploy-please-just-work/prism-classic",
+      "/home/pjackson/develop/java-core/config/dev14pleasework/prism-classic",
+      "/home/pjackson/develop/java-core/config/dcww-my-ops/prism-classic",
+      "/home/pjackson/develop/getdown",
+      "/home/pjackson/develop/standard",
+      "/home/pjackson/develop/scope-util",
+      "/home/pjackson/develop/welsh",
+      "/home/pjackson/Desktop",
+      "/home/pjackson/develop/affinity-water",
+      "/home/pjackson/develop/java-core/config/affinity/api-server-affinity",
+      "/home/pjackson/develop/java-core/config/affinity/archiver-exchange-affinity",
+      "/home/pjackson/develop/java-core/config/affinity/mimic-server-affinity",
+      "/home/pjackson/develop/java-core/config/affinity/prism-classic-affinity",
+      "/home/pjackson/develop/affinity-water/pom.xml",
+      "/home/pjackson/develop/nginx-config",
+      "/home/pjackson/develop/prism-go",
+      "/home/pjackson/develop/scope-data-handlers-ts",
+      "/home/pjackson/develop/scope-schema-ts",
+      "/home/pjackson/develop/scope-data-ts",
+      "/home/pjackson/develop/scope-data",
+      "/home/pjackson/develop",
+      "/home/pjackson/develop/java-core/config/localscope/data_generator",
+      "/home/pjackson/develop/java-core/config/Wessex/prism-classicWessex",
+      "/home/pjackson/develop/wessex",
+      "/home/pjackson/.m2/repository/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar",
+      "/home/pjackson/.m2/repository/net/sf/trove4j",
+      "/home/pjackson/develop/svn-stuff/config/nsstw54559",
+      "/home/pjackson/develop/svn-stuff",
+      "/home/pjackson/develop/svn-stuff/branches/release/nsstw54559",
+      "/home/pjackson/develop/jcore-new/java-core"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.lab.servelec-systems.com" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://phabricator.lab.servelec-systems.com/rSCP66765" />
+        <option value="https://svn.lab.servelec-systems.com" />
+        <option value="https://svn.lab.servelec-systems.com/branches/release/nsstw54559" />
+      </list>
+    </option>
+  </component>
+  <component name="YarnPnpDependencyTreeJsonFileManager">
+    <pnp-file-to-dependency-tree-file-map>
+      <map>
+        <entry key="/home/pjackson/develop/scope-util/.pnp.cjs" value="/home/pjackson/.cache/JetBrains/IntelliJIdea2024.2/javascript/yarn-pnp-dependency-tree/scope-util-dependency-tree" />
+      </map>
+    </pnp-file-to-dependency-tree-file-map>
+  </component>
+</application>

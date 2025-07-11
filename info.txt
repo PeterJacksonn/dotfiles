@@ -1,0 +1,12 @@
+For '.config': 
+just simlink the whole dir to ~/.config
+
+The rest are in $HOME directory:
+
+.tmux.conf
+.xinitrc (don't think I need this)
+.zshrc
+.oh-my-zsh
+.ideavimrc
+.doom.d (doom emacs (i think))
+

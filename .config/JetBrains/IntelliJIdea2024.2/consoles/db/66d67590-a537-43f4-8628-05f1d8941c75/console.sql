@@ -1,0 +1,1 @@
+drop DATABASE archiver5 with (FORCE)

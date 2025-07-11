@@ -1,0 +1,1160 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="java-core" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:escadaFeature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:featue" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:release" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:test" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2f9c5mv6kukx5" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Genie/genie/ifcengine/editor/EditorPanel.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="10824">
+              <caret line="589" selection-start-line="589" selection-end-line="589" />
+              <folding>
+                <element signature="e#3452#3460#0" expanded="true" />
+                <element signature="e#3523#3531#0" expanded="true" />
+                <element signature="e#3597#3605#0" expanded="true" />
+                <element signature="e#4446#5474#0" expanded="true" />
+                <element signature="e#5473#5474#0" expanded="true" />
+                <element signature="e#5502#5650#0" expanded="true" />
+                <element signature="e#5649#5650#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour/js/FunctionPanel.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="13376">
+              <caret line="617" column="44" selection-start-line="617" selection-start-column="44" selection-end-line="617" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/ScopeAPI/src/uk/servelec/scopeapi/request/Stats.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1562">
+              <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/core/MimicServer/MimicServer/com/cse/mimic/srv/MainClass.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="4422">
+              <caret line="482" selection-start-line="482" selection-end-line="482" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/localscope/prism-classic/Prism.properties">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 16,
+      "lastUsed": 1722410882370
+    },
+    "Properties": {
+      "usageCount": 30,
+      "lastUsed": 1747297426298
+    },
+    "JAVA": {
+      "usageCount": 163,
+      "lastUsed": 1747297425561
+    },
+    "JSP": {
+      "usageCount": 1,
+      "lastUsed": 1722343421001
+    },
+    "VcsLog": {
+      "usageCount": 4,
+      "lastUsed": 1722497463004
+    },
+    "DIFF": {
+      "usageCount": 6,
+      "lastUsed": 1722939076219
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 3,
+      "lastUsed": 1722865915443
+    },
+    "CLASS": {
+      "usageCount": 3,
+      "lastUsed": 1722864705905
+    },
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1722854635846
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>generalModifyitem.</find>
+      <find>boolean canedi</find>
+      <find>boolean canedit</find>
+      <find>mouserelease</find>
+      <find>usersmodify</find>
+      <find>server</find>
+      <find>accesslevel</find>
+      <find>maccesslevel</find>
+      <find>mGeneralTable</find>
+      <find>genera</find>
+      <find>Access level of 5 required</find>
+      <find>Access level of</find>
+      <find>Output error</find>
+      <find>shared nexus</find>
+      <find>outstation</find>
+      <find>advanced</find>
+      <find>modifymappingdia</find>
+      <find>modifymappingdialog</find>
+      <find>general</find>
+      <find>tolerance</find>
+      <find>MOdify mapping dialog</find>
+      <find>mapping dialog</find>
+      <find>mappingdialog</find>
+      <find>READ</find>
+      <find>mapping</find>
+      <find>modify_map</find>
+      <find>checkbox</find>
+      <find>outstationconfig</find>
+      <find>modify</find>
+      <find>tolerance_type</find>
+      <find>read toler</find>
+      <find>toleranceflagcheckbox</find>
+      <find>// 40</find>
+      <find>readflagcheckbox</find>
+      <find>modifymapping</find>
+      <find>editor settings</find>
+      <find>editorsettings</find>
+      <find>editor sett</find>
+      <find>actionpanel</find>
+      <find>object</find>
+      <find>editor</find>
+      <find>setobjectsettings</find>
+      <find>objecteditor</find>
+      <find>beh</find>
+      <find>object behaviour</find>
+      <find>custom</find>
+      <find>fontsize</find>
+      <find>FONT</find>
+      <find>ok_option</find>
+      <find>actions</find>
+      <find>functionpanel</find>
+      <find>behaviourtree</find>
+      <find>custom function</find>
+      <find>function</find>
+      <find>createfunctionaction(</find>
+      <find>Function</find>
+      <find>select</find>
+      <find>fontzie</find>
+      <find>ACTION</find>
+      <find>font</find>
+      <find>mtextarea</find>
+      <find>mcloseonlog</find>
+      <find>action code required</find>
+      <find>actionin</find>
+      <find>config</find>
+      <find>access</find>
+      <find>&quot;Alarms Manager&quot;</find>
+      <find>properties</find>
+      <find>action</find>
+      <find>52-</find>
+      <find>2330</find>
+      <find>system</find>
+      <find>configprops</find>
+      <find>genie</find>
+      <find>Open Server F</find>
+      <find>enabletype</find>
+      <find>mSourceTree</find>
+      <find>function edit</find>
+      <find>!= NULL</find>
+      <find>!= null</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/config/localscope/prism-classic</dir>
+      <dir>$PROJECT_DIR$/config/localscope/mimic-server</dir>
+      <dir>$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaBeans</dir>
+      <dir>$PROJECT_DIR$/core</dir>
+      <dir>$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor</dir>
+      <dir>$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder</dir>
+      <dir>$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour</dir>
+      <dir>$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour/js</dir>
+      <dir>$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/shared</dir>
+      <dir>$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaApplets</dir>
+      <dir>$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/com/cse/prism/alarm</dir>
+      <dir>$PROJECT_DIR$/core/Explorer/src/app/favourites</dir>
+      <dir>$PROJECT_DIR$/library/ScadaUtility/src/com/cse/scadautil</dir>
+      <dir>$PROJECT_DIR$/config/localscope/mimic-server/wdata</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+        <item name="RECENT/[bugfix]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+        <item name="RECENT/[release]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+        <item name="REMOTE/[origin]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaBeans/UserManager.java" />
+      <option value="$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaBeans/DatabaseManager.java" />
+      <option value="$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaBeans/MappingConfigDialog.java" />
+      <option value="$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/shared/EditorSettings.java" />
+      <option value="$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/ObjectEditorPanel.java" />
+      <option value="$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour/js/FunctionPanelSettings.java" />
+      <option value="$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour/BehaviourTree.java" />
+      <option value="$PROJECT_DIR$/config/localscope/mimic-server/mimic.conf" />
+      <option value="$PROJECT_DIR$/library/ScadaUtility/src/com/cse/scadautil/ScadaUtility.java" />
+      <option value="$PROJECT_DIR$/config/localscope/mimic-server/wdata/Alarm Manager.properties" />
+      <option value="$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/com/cse/prism/alarm/AlarmsManager.java" />
+      <option value="$PROJECT_DIR$/config/localscope/mimic-server/wdata/Alarms Manager.properties" />
+      <option value="$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/com/cse/prism/alarm/popups/ActionInfoPopup.java" />
+      <option value="$PROJECT_DIR$/config/localscope/prism-classic/Prism.properties" />
+      <option value="$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour/js/FunctionPanel.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="163" lastUsage="1747297425561" />
+    </language>
+    <language id="JSP">
+      <summary usageCount="1" lastUsage="1722343421001" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="16" lastUsage="1722410882370" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="30" lastUsage="1747297426298" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1722865915443" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1722854635846" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/config}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/config}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/config/localscope}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/config}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/config/localscope}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/config/localscope/prism-classic}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core/xtraview3}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core/xtraview3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core/xtraview3/Xtraview3Utils}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core/xtraview3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core/xtraview3/Xtraview3Utils}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core/xtraview3/Xtraview3Utils/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core/xtraview3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core/xtraview3/Xtraview3Utils}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core/xtraview3/Xtraview3Utils/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/pjackson/develop/java-core/core/xtraview3/Xtraview3Utils/src/ScadaBeans}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Scratches" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <option name="allConfigurationsExpanded" value="true" />
+    <history>
+      <element setting="Compound.Backend Comp" />
+      <element setting="Application.Prism Ops" />
+      <element setting="Shell Script.Prism 5" />
+      <element setting="Java Scratch.Scratch" />
+      <element setting="Application.Mimic Server" />
+      <element setting="Application.ArchiverExchange" />
+      <element setting="Shell Script.Archiver 5 Database" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Archiver 5 Database" currentWorkingDirectory="$PROJECT_DIR$/core/ArchiverExchange/install/ArchiverExchange_scripts" />
+      <TerminalTabState tabName="Web Root" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="java-core-history1">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Archiver 5 Database" currentWorkingDirectory="$PROJECT_DIR$/core/ArchiverExchange/install/ArchiverExchange_scripts" commandHistoryFileName="java-core-history2">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Web Root" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="java-core-history11">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Prism 5" currentWorkingDirectory="$PROJECT_DIR$/core/Explorer" commandHistoryFileName="java-core-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Archiver 5 Database (3)" currentWorkingDirectory="$PROJECT_DIR$/core/ArchiverExchange/install/ArchiverExchange_scripts" commandHistoryFileName="java-core-history8">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="3" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="135063000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20224425" />
+      <window_info id="Commit" order="1" weight="0.20224425" />
+      <window_info id="VcsChanges" order="2" weight="0.21077406" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.2235577" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.31875" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3235577" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.3235577" />
+      <window_info anchor="bottom" id="Debug" order="6" show_stripe_button="false" weight="0.3235577" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.31875" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.48042798" />
+      <unified_weights bottom="0.3235577" left="0.20224425" right="0.48042798" />
+    </layoutV2>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Version Control</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>VcsChanges</value>
+      <value>Maven</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="751" y="132" width="804" height="671" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1722343904547">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="751" y="132" width="804" height="671" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1722343904547" />
+    <state width="389" height="82" key="DebuggerActiveHint" timestamp="1722951622603">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="389" height="82" key="DebuggerActiveHint/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722951622603" />
+    <state x="184" y="78" width="1540" height="884" key="DiffContextDialog" timestamp="1722497438249">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="184" y="78" width="1540" height="884" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1722497438249" />
+    <state x="743" y="288" width="428" height="478" key="FileChooserDialogImpl" timestamp="1722245254949">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="288" width="428" height="478" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1722245254949" />
+    <state x="2488" y="460" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1722522464965">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2488" y="460" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722522464965" />
+    <state width="874" height="294" key="GridCell.Tab.0.bottom" timestamp="1723026238247">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="212" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1722508430190" />
+    <state width="874" height="294" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1723026238247" />
+    <state width="1834" height="294" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722951628351" />
+    <state width="874" height="294" key="GridCell.Tab.0.center" timestamp="1723026238247">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="212" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1722508430190" />
+    <state width="874" height="294" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1723026238247" />
+    <state width="1834" height="294" key="GridCell.Tab.0.center/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722951628351" />
+    <state width="874" height="294" key="GridCell.Tab.0.left" timestamp="1723026238247">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="212" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1722508430190" />
+    <state width="874" height="294" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1723026238247" />
+    <state width="1834" height="294" key="GridCell.Tab.0.left/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722951628351" />
+    <state width="874" height="294" key="GridCell.Tab.0.right" timestamp="1723026238247">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="212" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1722508430190" />
+    <state width="874" height="294" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1723026238247" />
+    <state width="1834" height="294" key="GridCell.Tab.0.right/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722951628351" />
+    <state width="874" height="294" key="GridCell.Tab.1.bottom" timestamp="1723026238247">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="212" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1722508430127" />
+    <state width="874" height="294" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1723026238247" />
+    <state width="1834" height="294" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722951628292" />
+    <state width="874" height="294" key="GridCell.Tab.1.center" timestamp="1723026238247">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="212" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1722508430126" />
+    <state width="874" height="294" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1723026238247" />
+    <state width="1834" height="294" key="GridCell.Tab.1.center/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722951628292" />
+    <state width="874" height="294" key="GridCell.Tab.1.left" timestamp="1723026238247">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="212" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1722508430126" />
+    <state width="874" height="294" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1723026238247" />
+    <state width="1834" height="294" key="GridCell.Tab.1.left/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722951628292" />
+    <state width="874" height="294" key="GridCell.Tab.1.right" timestamp="1723026238247">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1834" height="212" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1722508430126" />
+    <state width="874" height="294" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1723026238247" />
+    <state width="1834" height="294" key="GridCell.Tab.1.right/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722951628292" />
+    <state x="2850" y="219" width="384" height="543" key="RollbackChangesDialog" timestamp="1722586552726">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="930" y="219" width="384" height="543" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1722497455557" />
+    <state x="2850" y="219" key="RollbackChangesDialog/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722586552726" />
+    <state x="2384" y="165" width="1028" height="839" key="SettingsEditor" timestamp="1723026181973">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="464" y="165" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1722345907003" />
+    <state x="2384" y="165" width="1028" height="839" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1723026181973" />
+    <state x="2384" y="165" width="1028" height="839" key="SettingsEditor/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722949337688" />
+    <state x="2475" y="264" width="804" height="522" key="Vcs.Push.Dialog.v2" timestamp="1723024615169">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="264" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1723024615169" />
+    <state x="2475" y="264" width="804" height="522" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722940489039" />
+    <state width="962" height="550" key="XDebugger.FullValuePopup" timestamp="1722344589218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="962" height="550" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1722344589218" />
+    <state x="749" y="447" width="415" height="156" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1722497531682">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="749" y="447" width="415" height="156" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1722497531682" />
+    <state x="2410" y="223" width="934" height="685" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1722859492992">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2410" y="223" width="934" height="685" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722859492992" />
+    <state x="0" y="13" width="1916" height="1040" key="dock-window-1" timestamp="1722586303094">
+      <screen x="0" y="13" width="1920" height="1080" />
+    </state>
+    <state x="0" y="13" width="1916" height="1040" key="dock-window-1/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722586303094" />
+    <state x="1920" y="0" width="1049" height="1060" key="dock-window-2" timestamp="1722594130856">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1920" y="0" width="1049" height="1060" key="dock-window-2/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722594130856" />
+    <state x="2612" y="216" width="737" height="864" key="find.popup" timestamp="1722938257831">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="262" y="216" width="691" height="864" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1722605023664" />
+    <state x="2612" y="216" width="737" height="864" key="find.popup/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722938257831" />
+    <state x="2620" y="246" width="513" height="558" key="git4idea.branch.GitSmartOperationDialog" timestamp="1723021296778">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2620" y="246" width="513" height="558" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1723021296778" />
+    <state x="2620" y="246" width="513" height="558" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722938326842" />
+    <state x="622" y="238" width="672" height="712" key="run.anything.popup" timestamp="1722241439638">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="238" width="672" height="712" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1722241439638" />
+    <state x="2063" y="223" width="680" height="713" key="search.everywhere.popup" timestamp="1722943368431">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="143" y="223" width="680" height="713" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1722417126196" />
+    <state x="2063" y="223" width="680" height="713" key="search.everywhere.popup/1920.0.1920.1080/0.13.1920.1080@1920.0.1920.1080" timestamp="1722943368431" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>enableTolerance</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>enableValue</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>enableType</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>enableTolerance</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>clientAccess</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-1669689191&quot;,&quot;projectHash&quot;:&quot;30a18c2d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;bugfix/SOF-26447&quot;,&quot;inclusiveRef&quot;:&quot;develop&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;/home/pjackson/develop/java-core&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaBeans/FORManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="365" selection-start-line="365" selection-end-line="365" />
+          <folding>
+            <element signature="e#16359#16709#0" expanded="true" />
+            <element signature="e#16708#16709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaBeans/OpcClientPopup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="1334" column="89" selection-start-line="1334" selection-start-column="79" selection-end-line="1334" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Genie/genie/ifcengine/stores/ScopeXStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="419" column="23" selection-start-line="419" selection-start-column="23" selection-end-line="419" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaBeans/OutstationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4026">
+          <caret line="317" column="15" selection-start-line="317" selection-start-column="15" selection-end-line="317" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour/js/JavaScriptDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaBeans/OutstationConfigDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaBeans/MappingConfigDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="1603" column="7" selection-start-line="1603" selection-start-column="7" selection-end-line="1603" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/ScadaLib/src/ScadaLib/ScadaCheckBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour/js/FunctionPanelSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="51" column="47" lean-forward="true" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
+          <folding>
+            <element signature="e#3881#3882#0" expanded="true" />
+            <element signature="e#3945#3946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/ScadaLib/src/ScadaLib/ScadaPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/ScadaLib/src/ScadaLib/ScadaComboBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="165" column="12" selection-start-line="165" selection-start-column="12" selection-end-line="165" selection-end-column="12" />
+          <folding>
+            <element signature="e#5059#5060#0" expanded="true" />
+            <element signature="e#5108#5109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/ObjectEditorPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31218">
+          <caret line="1589" column="35" selection-start-line="1589" selection-start-column="29" selection-end-line="1589" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/MimicBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="448" column="20" selection-start-line="448" selection-start-column="20" selection-end-line="448" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour/BehaviourEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-419">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour/ActionPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/ObjectEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fifesoft/rsyntaxtextarea/3.3.4/rsyntaxtextarea-3.3.4.jar!/org/fife/ui/rsyntaxtextarea/Theme.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour/BehaviourTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="313" column="47" lean-forward="true" selection-start-line="313" selection-start-column="47" selection-end-line="313" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/PrismSchema/src/com/cse/mimic/schema/obj/bh/action/ActionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/PrismSchema/src/com/cse/mimic/schema/obj/bh/action/ObjectActionFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="3309" column="16" selection-start-line="3309" selection-start-column="16" selection-end-line="3309" selection-end-column="16" />
+          <folding>
+            <element signature="e#115477#115478#0" expanded="true" />
+            <element signature="e#115524#115525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaApplets/PrismListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/com/cse/prism/alarm/ams/HistoryPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/com/cse/prism/alarm/AlarmsManagerHandlerSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="59" column="43" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/PrismToolkit/src/com/cse/prism/ams/WorkOrderConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="250" column="43" lean-forward="true" selection-start-line="250" selection-start-column="43" selection-end-line="250" selection-end-column="43" />
+          <folding>
+            <element signature="e#7134#7135#0" expanded="true" />
+            <element signature="e#7173#7174#0" expanded="true" />
+            <element signature="e#7233#7234#0" expanded="true" />
+            <element signature="e#7285#7286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/AMSSchema/src/com/cse/prism/ams/schema/ActionInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/localscope/mimic-server/ScopeXHelp.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/src.zip!/javax/swing/text/JTextComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="1692" column="18" selection-start-line="1692" selection-start-column="18" selection-end-line="1692" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/localscope/mimic-server/mimic.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="570" lean-forward="true" selection-start-line="570" selection-end-line="570" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/localscope/web/Alarm_Banner.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/tmatesoft/svnkit/svnkit/1.10.10/svnkit-1.10.10.jar!/org/tmatesoft/svn/core/internal/io/svn/ssh/apache/ApacheSshSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Genie/genie/ifcengine/GenieConfig.java.orig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="45" column="87" selection-start-line="45" selection-start-column="87" selection-end-line="45" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Genie/genie/ifcengine/editor/OpenServerFileDialogue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/ScadaUtility/src/com/cse/scadautil/ScadaUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14344">
+          <caret line="768" column="23" selection-start-line="768" selection-start-column="12" selection-end-line="768" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaApplets/Prism.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="59" column="3" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/localscope/mimic-server/wdata/Alarms Manager.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/com/cse/prism/alarm/AlarmsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/com/cse/prism/alarm/popups/ActionInfoPopup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="379" column="7" selection-start-line="379" selection-start-column="7" selection-end-line="379" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/PrismSchema/src/com/cse/mimic/schema/obj/bh/action/ObjectAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding>
+            <element signature="e#1226#1227#0" expanded="true" />
+            <element signature="e#1246#1247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/Xtraview3Utils/src/ScadaApplets/PrismUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="1459" column="30" selection-start-line="1459" selection-start-column="30" selection-end-line="1459" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58278">
+          <caret line="4836" column="16" selection-start-line="4836" selection-start-column="16" selection-end-line="4836" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/ScadaUtility/src/com/cse/prism/access/PrismAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8206">
+          <caret line="373" selection-start-line="373" selection-end-line="373" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Genie/genie/ifcengine/editor/EditorDialoguePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="159" column="12" selection-start-line="159" selection-start-column="12" selection-end-line="159" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/shared/EditorSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="492" column="27" selection-start-line="492" selection-start-column="20" selection-end-line="492" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Genie/genie/ifcengine/editor/EditorPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10824">
+          <caret line="589" selection-start-line="589" selection-end-line="589" />
+          <folding>
+            <element signature="e#3452#3460#0" expanded="true" />
+            <element signature="e#3523#3531#0" expanded="true" />
+            <element signature="e#3597#3605#0" expanded="true" />
+            <element signature="e#4446#5474#0" expanded="true" />
+            <element signature="e#5473#5474#0" expanded="true" />
+            <element signature="e#5502#5650#0" expanded="true" />
+            <element signature="e#5649#5650#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/xtraview3/MimicBuilder/src/com/cse/mimic/builder/objeditor/behaviour/js/FunctionPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13376">
+          <caret line="617" column="44" selection-start-line="617" selection-start-column="44" selection-end-line="617" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/ScopeAPI/src/uk/servelec/scopeapi/request/Stats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/localscope/prism-classic/Prism.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/MimicServer/MimicServer/com/cse/mimic/srv/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4422">
+          <caret line="482" selection-start-line="482" selection-end-line="482" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AlarmConfigUtil</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: bsf:bsf:2.4.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
